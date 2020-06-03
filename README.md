@@ -2,14 +2,17 @@
 
 in the StoryHub folder,
 `yarn`
-<!-- `yarn dev:personal-minimal` -->
-`yarn dev:personal-lite`
+`yarn install`
 
+<!-- `yarn dev:personal-minimal` -->
+
+`yarn dev`
+`yarn build`
+`yarn deploy`
 
 ## [Documentation](/DOCUMENTATION.md)
 
 NOTE:
-
 
 1. puppeteer causes problem some time to fix it you may need to apply:
 

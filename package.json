@@ -34,9 +34,9 @@
     "dev:beauty": "yarn workspace @blog/beauty develop",
     "build:beauty": "yarn workspace @blog/beauty build",
     "serve:beauty": "yarn workspace @blog/beauty serve",
-    "dev": "yarn workspace @blog/personal-lite develop",
     "build": "yarn workspace @blog/personal-lite build",
-    "deploy": "gatsby build dev:personal-lite && gh-pages -d public -b master"
+    "dev": "yarn workspace @blog/personal-lite develop",
+    "deploy": "gatsby build && gh-pages -d public -b master"
   },
   "devDependencies": {
     "husky": "^4.2.3",
@@ -56,6 +56,7 @@
     ]
   },
   "dependencies": {
+    "gatsby": "^2.22.19",
     "gh-pages": "^3.0.0"
   }
 }
