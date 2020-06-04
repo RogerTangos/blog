@@ -21,22 +21,22 @@ type IntroProps = {};
 const SocialLinks = [
   {
     icon: <IoLogoFacebook />,
-    url: '#',
+    url: 'https://www.facebook.com/al.carter',
     tooltip: 'Facebook',
   },
   {
     icon: <IoLogoInstagram />,
-    url: '#',
+    url: 'https://www.instagram.com/alrcarter/',
     tooltip: 'Instagram',
   },
   {
     icon: <IoLogoTwitter />,
-    url: '#',
+    url: 'https://twitter.com/al_carter',
     tooltip: 'Twitter',
   },
   {
     icon: <IoLogoGithub />,
-    url: '#',
+    url: 'https://github.com/RogerTangos/',
     tooltip: 'Github',
   },
 ];
