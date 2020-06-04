@@ -15,18 +15,18 @@ Donec et lacus sollicitudin, consequat leo sit amet, faucibus quam. Quisque frin
 
 ```js
 function Employee(firstName, lastName) {
-  this.firstName = firstName
-  this.lastName = lastName
+  this.firstName = firstName;
+  this.lastName = lastName;
 }
 
-Employee.prototype.fullName = function() {
-  return this.firstName + ' ' + this.lastName
-}
+Employee.prototype.fullName = function () {
+  return this.firstName + ' ' + this.lastName;
+};
 
-var employee1 = new Employee('Martin', 'Roy')
-var employee2 = new Employee('Duke', 'William')
-document.writeln(employee1.fullName() + '<br>')
-document.writeln(employee2.fullName())
+var employee1 = new Employee('Martin', 'Roy');
+var employee2 = new Employee('Duke', 'William');
+document.writeln(employee1.fullName() + '<br>');
+document.writeln(employee2.fullName());
 ```
 
 Aliquam erat volutpat. Proin accumsan vulputate turpis. Aenean at justo risus. Nullam et rhoncus leo. Cras sit amet dictum ipsum. Aliquam eu neque mauris. Morbi neque urna, molestie in magna sed, commodo accumsan est. Fusce eu nisl eget orci semper vulputate. Aliquam tempor mi non laoreet facilisis. Sed ac felis libero. Suspendisse et gravida libero. Maecenas eget vehicula enim. Pellentesque pellentesque elit mattis fermentum interdum. Maecenas auctor vehicula rutrum. Donec pellentesque ante at nunc porta hendrerit.
