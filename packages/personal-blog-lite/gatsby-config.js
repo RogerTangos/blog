@@ -5,11 +5,10 @@ require('dotenv').config({
 module.exports = {
   siteMetadata: {
     title: `StoryHub`,
-    author: `David`,
-    about: `Breakfast procuring no end happiness allowance assurance frank. Met simplicity nor difficulty unreserved who. Entreaties mr conviction dissimilar me
-    astonished estimating cultivated.`,
-    description: `A Gatsby Blog`,
-    siteUrl: `https://storyhub-minimal-tarex.redq.now.sh`,
+    author: `Albert Carter`,
+    about: `I'm on a journey to becoming a full time environmental financial activist. I'd love it if you joined me.`,
+    description: `Blog`,
+    siteUrl: `https://blog.albertrcarter.com`,
   },
   plugins: [
     {
