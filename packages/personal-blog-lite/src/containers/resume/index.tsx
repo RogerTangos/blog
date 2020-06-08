@@ -1,4 +1,5 @@
 import * as React from 'react';
+import BodyHTML from './body.tsx';
 import { useStaticQuery, graphql } from 'gatsby';
 import Image from 'gatsby-image';
 import SocialProfile from '../../components/social-profile/social-profile';
@@ -70,6 +71,8 @@ const About: React.FunctionComponent<AboutProps> = () => {
           developers to use for their portfolio website.
         </p>
       </AboutPageTitle>
+
+      <BodyHTML />
 
       <AboutImage>
         <Image fluid={Data.avatar.childImageSharp.fluid} alt="author" />
