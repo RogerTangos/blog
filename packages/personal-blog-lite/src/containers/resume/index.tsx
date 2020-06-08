@@ -1,95 +1,14 @@
 import * as React from 'react';
-import BodyHTML from './body.tsx';
-import { useStaticQuery, graphql } from 'gatsby';
-import Image from 'gatsby-image';
-import SocialProfile from '../../components/social-profile/social-profile';
-import {
-  IoLogoFacebook,
-  IoLogoTwitter,
-  IoLogoInstagram,
-  IoLogoLinkedin,
-} from 'react-icons/io';
-import {
-  AboutWrapper,
-  AboutImage,
-  AboutPageTitle,
-  AboutDetails,
-  SocialProfiles,
-} from './style';
-
-const SocialLinks = [
-  {
-    icon: <IoLogoFacebook />,
-    url: 'https://www.facebook.com/redqinc/',
-    tooltip: 'Facebook',
-  },
-  {
-    icon: <IoLogoInstagram />,
-    url: 'https://www.instagram.com/redqinc/',
-    tooltip: 'Instagram',
-  },
-  {
-    icon: <IoLogoTwitter />,
-    url: 'https://twitter.com/redqinc',
-    tooltip: 'Twitter',
-  },
-  {
-    icon: <IoLogoLinkedin />,
-    url: 'https://www.linkedin.com/company/redqinc/',
-    tooltip: 'Linked In',
-  },
-];
+import './resume.css';
 
 interface AboutProps {}
 
-const About: React.FunctionComponent<AboutProps> = () => {
-  const Data = useStaticQuery(graphql`
-    query {
-      avatar: file(absolutePath: { regex: "/about.jpg/" }) {
-        childImageSharp {
-          fluid(maxWidth: 1770, quality: 90) {
-            ...GatsbyImageSharpFluid
-          }
-        }
-      }
-      site {
-        siteMetadata {
-          author
-          about
-        }
-      }
-    }
-  `);
-
+const Resume: React.FunctionComponent<AboutProps> = () => {
   return (
-    <AboutWrapper>
-      <BodyHTML />
-
-      <AboutImage>
-        <Image fluid={Data.avatar.childImageSharp.fluid} alt="author" />
-      </AboutImage>
-
-      <AboutDetails>
-        <h2>Hey there, what’s up?</h2>
-        <p>
-          RedQ Team is a creative agency specializing in building scalable,
-          high-performance web & mobile application. Our main concern is
-          creating more value into the application so that can help our
-          customers to grow their business.
-        </p>
-        <p>
-          RedQ Team is a creative agency specializing in building scalable,
-          high-performance web & mobile application. Our main concern is
-          creating more value into the application so that can help our
-          customers to grow their business.
-        </p>
-
-        <SocialProfiles>
-          <SocialProfile items={SocialLinks} />
-        </SocialProfiles>
-      </AboutDetails>
-    </AboutWrapper>
+    <div id="content">
+            <iframe width="100%" height="100%" border="none" src="http://albertrcarter.com" />
+    </div>
   );
 };
 
-export default About;
+export default Resume;
