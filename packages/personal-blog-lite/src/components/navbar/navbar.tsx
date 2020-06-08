@@ -33,6 +33,10 @@ const MenuItems = [
     label: 'Contact',
     url: '/contact',
   },
+  {
+    label: 'Resume',
+    url: '/resume'
+  },
 ];
 
 const Navbar: React.FunctionComponent<NavbarProps> = ({
