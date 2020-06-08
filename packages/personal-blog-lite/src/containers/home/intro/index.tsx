@@ -13,6 +13,7 @@ import {
   IoLogoFacebook,
   IoLogoTwitter,
   IoLogoInstagram,
+  IoLogoLinkedin,
   IoLogoGithub,
 } from 'react-icons/io';
 
@@ -33,6 +34,11 @@ const SocialLinks = [
     icon: <IoLogoTwitter />,
     url: 'https://twitter.com/al_carter',
     tooltip: 'Twitter',
+  },
+  {
+    icon: <IoLogoLinkedin />,
+    url: 'https://linkedin.com/in/brownualcarter',
+    tooltip: 'LinkedIn',
   },
   {
     icon: <IoLogoGithub />,

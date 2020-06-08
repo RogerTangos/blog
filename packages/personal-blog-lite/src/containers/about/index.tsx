@@ -1,16 +1,17 @@
 import * as React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
-import Image from 'gatsby-image';
+// import Image from 'gatsby-image';
 import SocialProfile from '../../components/social-profile/social-profile';
 import {
   IoLogoFacebook,
   IoLogoTwitter,
   IoLogoInstagram,
   IoLogoLinkedin,
+  IoLogoGithub,
 } from 'react-icons/io';
 import {
   AboutWrapper,
-  AboutImage,
+  // AboutImage,
   AboutPageTitle,
   AboutDetails,
   SocialProfiles,
@@ -19,23 +20,28 @@ import {
 const SocialLinks = [
   {
     icon: <IoLogoFacebook />,
-    url: 'https://www.facebook.com/redqinc/',
+    url: 'https://www.facebook.com/al.carter',
     tooltip: 'Facebook',
   },
   {
     icon: <IoLogoInstagram />,
-    url: 'https://www.instagram.com/redqinc/',
+    url: 'https://www.instagram.com/alrcarter/',
     tooltip: 'Instagram',
   },
   {
     icon: <IoLogoTwitter />,
-    url: 'https://twitter.com/redqinc',
+    url: 'https://twitter.com/al_carter',
     tooltip: 'Twitter',
   },
   {
     icon: <IoLogoLinkedin />,
-    url: 'https://www.linkedin.com/company/redqinc/',
-    tooltip: 'Linked In',
+    url: 'https://linkedin.com/in/brownualcarter',
+    tooltip: 'LinkedIn',
+  },
+  {
+    icon: <IoLogoGithub />,
+    url: 'https://github.com/RogerTangos/',
+    tooltip: 'Github',
   },
 ];
 
@@ -65,31 +71,13 @@ const About: React.FunctionComponent<AboutProps> = () => {
       <AboutPageTitle>
         <h2>About StoryHub</h2>
         <p>
-          StoryHub is a beautiful Gatsby Blog theme designed to showcase your
-          work in style. Perfect for designers, artists, photographers and
-          developers to use for their portfolio website.
+          Albert Carter is an environmental financial activist, and a data entineer.
+          He works with Extinction Rebellion's Comic Science working group and is interested
+          in new projects in the financial activism space.
         </p>
       </AboutPageTitle>
 
-      <AboutImage>
-        <Image fluid={Data.avatar.childImageSharp.fluid} alt="author" />
-      </AboutImage>
-
       <AboutDetails>
-        <h2>Hey there, what’s up?</h2>
-        <p>
-          RedQ Team is a creative agency specializing in building scalable,
-          high-performance web & mobile application. Our main concern is
-          creating more value into the application so that can help our
-          customers to grow their business.
-        </p>
-        <p>
-          RedQ Team is a creative agency specializing in building scalable,
-          high-performance web & mobile application. Our main concern is
-          creating more value into the application so that can help our
-          customers to grow their business.
-        </p>
-
         <SocialProfiles>
           <SocialProfile items={SocialLinks} />
         </SocialProfiles>

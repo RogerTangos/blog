@@ -9,8 +9,11 @@ const ResumePage: React.FunctionComponent<ResumePageProps> = (props) => {
   return (
     <Layout>
       <SEO
-        title="Programmer Resume"
-        description="StoryHub is a beautiful Gatsby Blog theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website."
+        title="Albert R Carter Programmer Resume"
+        description="Albert Carter is an environmental financial activist, and a data entineer.
+                     He works works in machine learning and artificial intelligence using
+                     serverless environments, python, clojure, TensorFlow, SkLearn, pandas, and NumPy."
+
       />
 
       <Resume />

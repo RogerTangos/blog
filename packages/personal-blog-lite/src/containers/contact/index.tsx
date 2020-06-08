@@ -48,10 +48,9 @@ const Contact: React.SFC<{}> = () => {
               <ContactPageTitle>
                 <h2>Contact</h2>
                 <p>
-                  StoryHub theme comes with a contact form built-in. You can use
-                  this form with Gatsbay Js service and get up to 50 submissions
-                  for free per form per month. Also, you can easily switch to
-                  another service if you want.
+                  I'm interested in hearing your thoughts and insights on financial environmental activism,
+                  especially as they relate to my blog posts. It's one of my reasons for putting up a silly self-promoting website,
+                  so please send away!
                 </p>
               </ContactPageTitle>
               <ContactFromWrapper>

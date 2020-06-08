@@ -30,10 +30,6 @@ const MenuItems = [
     url: '/about',
   },
   {
-    label: 'Contact',
-    url: '/contact',
-  },
-  {
     label: 'Resume',
     url: '/resume'
   },

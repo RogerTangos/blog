@@ -23,7 +23,7 @@ const SocialProfile: React.FunctionComponent<SocialProfileProps> = ({
     <SocialProfileWrapper {...props}>
       {items.map((item, index) => (
         <SocialProfileItem key={index}>
-          <a href={item.url} aria-label="social profile">
+          <a href={item.url} target="_blank" aria-label="social profile">
             {item.icon || 'icon'}
           </a>
           {item.tooltip != null && item.tooltip !== '' ? (

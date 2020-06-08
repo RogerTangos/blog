@@ -8,11 +8,13 @@ type AboutPageProps = {};
 const AboutPage: React.FunctionComponent<AboutPageProps> = (props) => {
   return (
     <Layout>
-      <SEO
-        title="About Us"
-        description="StoryHub is a beautiful Gatsby Blog theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website."
-      />
+    <SEO
+        title="About Albert R Carter"
+        description="Albert Carter is an environmental financial activist, and a data entineer.
+                     He works with Extinction Rebellion's Comic Science working group and is interested
+                     in new projects in the financial activism space."
 
+      />
       <About />
     </Layout>
   );
