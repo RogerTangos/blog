@@ -2,13 +2,24 @@
 
 in the StoryHub folder,
 `yarn`
-`yarn install`
 
 <!-- `yarn dev:personal-minimal` -->
 
-`yarn dev`
-`yarn build`
-`yarn deploy`
+In case building starts throwing mysterious src errors, try just reinstalling all packages, removing the public directory, and gatsby cleaning
+
+```
+rm yarn.lock
+rm yarn-error.log
+rm -r node_modules
+rm package-lock.json
+
+rm -r packages/personal-blog-lite/public
+mkdir packages/personal-blog-lite/public
+
+gatsby clean
+yarn build
+yarn deploy
+```
 
 ## [Documentation](/DOCUMENTATION.md)
 
