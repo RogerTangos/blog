@@ -1,5 +1,5 @@
 import React from 'react';
-import Layout from '../components/layout';
+import LayoutFooterless from '../components/layout-footerless';
 import SEO from '../components/seo';
 import Resume from '../containers/resume';
 
@@ -7,7 +7,7 @@ type ResumePageProps = {};
 
 const ResumePage: React.FunctionComponent<ResumePageProps> = (props) => {
   return (
-    <Layout>
+    <LayoutFooterless>
       <SEO
         title="Albert R Carter Programmer Resume"
         description="Albert Carter is an environmental financial activist, and a data entineer.
@@ -17,7 +17,7 @@ const ResumePage: React.FunctionComponent<ResumePageProps> = (props) => {
       />
 
       <Resume />
-    </Layout>
+    </LayoutFooterless>
   );
 };
 
