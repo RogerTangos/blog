@@ -39,7 +39,6 @@
     "deploy": "gatsby build && gh-pages -d packages/personal-blog-lite/public -b master"
   },
   "devDependencies": {
-    "husky": "^4.2.3",
     "lerna": "^3.13.1",
     "lint-staged": "^10.1.1",
     "prettier": "^2.0.2",
