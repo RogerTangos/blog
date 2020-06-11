@@ -10,9 +10,11 @@ In case building starts throwing mysterious src errors, try just reinstalling al
 ```
 rm yarn.lock
 rm yarn-error.log
-rm -r node_modules
+rm -rf node_modules
 rm package-lock.json
+yarn install
 
+rm -r public
 rm -r packages/personal-blog-lite/public
 mkdir packages/personal-blog-lite/public
 
