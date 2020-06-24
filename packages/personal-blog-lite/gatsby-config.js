@@ -16,7 +16,8 @@ module.exports = {
       options: {
         siteId: '1',
         matomoUrl: 'https://albertrcarter.matomo.cloud/',
-        siteUrl: 'https://albertrcarter.com'
+        siteUrl: 'https://www.albertrcarter.com',
+        requireConsent: true,
       }
     },
     {
