@@ -12,6 +12,14 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: 'gatsby-plugin-matomo',
+      options: {
+        siteId: '1',
+        matomoUrl: 'https://albertrcarter.matomo.cloud/',
+        siteUrl: 'https://albertrcarter.com'
+      }
+    },
+    {
       resolve: `gatsby-plugin-styled-components`,
       options: {
         minify: false, // Breaks styles if not set to false

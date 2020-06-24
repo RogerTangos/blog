@@ -11,11 +11,11 @@ slug: 'an-activist-adventure'
 
 I've worked on the fringes of environmental activism for years. Among my projects, I started a well-reputed [Extinction Rebellion](https://xrscience.earth/) group, and worked with friends to [map inconsistencies methane leak reporting](http://lostleaks.csail.mit.edu/).
 
-Many of the skills that I've acquired through work and my personal life ([agile project management](https://en.wikipedia.org/wiki/Agile_software_development), data engineering and analysis, finance, and an ability to read scientific papers) can be helpful for causes that I care about. I'd like to make use of them in a way that doesn't contribute to the collapse of our world. Starting June 1st, I'm giving myself between 6 and 9 months to become a full time activist.
+Many of the skills that I've acquired through work and my personal life ([agile project management](https://en.wikipedia.org/wiki/Agile_software_development), data engineering and analysis, finance, and an ability to read scientific papers) can be helpful for causes that I care about. **I'd like to make use of my skills in a way that doesn't contribute to the collapse of our world. Starting June 1st, I'm giving myself between 6 and 9 months to become a full time activist.**
 
 # What I hope to accomplish
 
-Initially, I hope to join with a finance-savvy environmental group in the Netherlands, help on an existing campaign, and learn everything I can from them. I have some ideas for campaigns of my own, but don't intend to launch them until I've done a good job for an existing campaign.
+**Initially, I hope to join with a finance-savvy environmental group**, help on existing campaigns, and learn everything I can from them. I have some ideas for campaigns of my own, but don't intend to launch them until I've done a good job for an existing campaign.
 
 Eventually, I hope to establish a new funding model for beneficial activism (This will be the topic of a later post.), while increasing capital costs for carbon-heavy companies and products.
 
@@ -41,16 +41,16 @@ Eventually, for this endeavor to continue, it needs to fund me.
 
 # Like any experiment, this needs evaluation
 
-In addition to the three milestones, above I'm interested in other evaluation criteria you may think of. On and between December 31st and May 31st , I'll take stock of these and decide whether or not to continue.
+In addition to the three milestones, above **I'm interested in other evaluation criteria you may think of.** On and between December 31st and May 31st , I'll take stock of these and decide whether or not to continue.
 
 ## This list is for you, and also for me.
 
-I'm recording this journey so that you and others can learn from it. I hope that it helps you with your own endeavors, and that you reach out if you need help.
+**I'm recording this journey so that you and others can learn from it.** I hope that it helps you with your own endeavors, and that you reach out if you need help.
 
-Your reading this also helps me. It encourages me through a strange career move, and I hope that you'll reach out with advice and suggestions on things that I can do better.
+Your reading this also helps me. It encourages me through a strange career move, and **I hope that you'll reach out with advice and suggestions on things that I can do better.**
 
 ## I hope that you'll join me.
 
 What evaluation criteria would you suggest for this experiment? What actions might I take, that will help me achieve my milestones? How can I make this a better read for you?
 
-Sign up for the email list and then mail me directly once I send out the next post at [albertrcarter.com/supersecretcontactform](https://albertrcarter.com/supersecretcontactform)
+**Sign up for the email list and then mail me directly once I send out the next post at [albertrcarter.com/supersecretcontactform](https://albertrcarter.com/supersecretcontactform)**
