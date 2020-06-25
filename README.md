@@ -18,9 +18,16 @@ rm -r public
 rm -r packages/personal-blog-lite/public
 mkdir packages/personal-blog-lite/public
 
+git clean -xdf
+yarn install
+
 gatsby clean
 yarn build
 yarn deploy
+
+
+
+yarn add -W gatsby-plugin-matomo
 ```
 
 ## [Documentation](/DOCUMENTATION.md)

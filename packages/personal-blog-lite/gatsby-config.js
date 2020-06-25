@@ -8,16 +8,15 @@ module.exports = {
     author: `Albert Carter`,
     about: `I'm on a journey to becoming a full time environmental financial activist. I'd love it if you joined me.`,
     description: `Blog`,
-    siteUrl: `https://blog.albertrcarter.com`,
+    siteUrl: `https://albertrcarter.com`,
   },
   plugins: [
     {
       resolve: 'gatsby-plugin-matomo',
       options: {
         siteId: '1',
-        matomoUrl: 'https://albertrcarter.matomo.cloud/',
-        siteUrl: 'https://www.albertrcarter.com',
-        requireConsent: true,
+        matomoUrl: 'https://albertrcarter.matomo.cloud',
+        siteUrl: 'https://www.albertrcarter.com'
       }
     },
     {
@@ -52,6 +51,12 @@ module.exports = {
             },
           },
           {
+            resolve: 'gatsby-plugin-mailchimp',
+            options: {
+            endpoint: 'https://albertrcarter.us18.list-manage.com/subscribe/post?u=15c6d56efe472984d62d97209&amp;id=6c9735461c',
+            },
+          },
+          {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
               wrapperStyle: `margin-bottom: 1.0725rem`,
@@ -65,7 +70,7 @@ module.exports = {
             },
           },
           {
-            resolve: `gatsby-remark-mermaid`,
+            resolve: `gatsby-remark-aid`,
           },
           {
             resolve: `gatsby-remark-prismjs`,
@@ -88,12 +93,6 @@ module.exports = {
     },
     {
       resolve: `gatsby-plugin-sharp`,
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
-      },
     },
     {
       resolve: `gatsby-plugin-feed`,
