@@ -70,7 +70,7 @@ module.exports = {
             },
           },
           {
-            resolve: `gatsby-remark-aid`,
+            resolve: `gatsby-remark-mermaid`,
           },
           {
             resolve: `gatsby-remark-prismjs`,
