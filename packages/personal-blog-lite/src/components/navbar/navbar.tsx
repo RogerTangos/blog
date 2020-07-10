@@ -9,7 +9,6 @@ import HeaderWrapper, {
   NavbarWrapper,
   Logo,
   MenuWrapper,
-  NavSearchButton,
   NavSearchWrapper,
   SearchCloseButton,
   NavSearchFromWrapper,
@@ -77,13 +76,6 @@ const Navbar: React.FunctionComponent<NavbarProps> = ({
         <MenuWrapper>
           <Menu items={MenuItems} />
         </MenuWrapper>
-        <NavSearchButton
-          type="button"
-          aria-label="search"
-          onClick={toggleHandle}
-        >
-          <IoIosSearch size="23px" />
-        </NavSearchButton>
       </NavbarWrapper>
 
       <NavSearchWrapper className={state.toggle === true ? 'expand' : ''}>
