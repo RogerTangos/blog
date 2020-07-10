@@ -34,19 +34,11 @@ const Contact: React.SFC<{}> = () => {
         }, 700);
       }}
       validationSchema={SignupSchema}
-      render={({
-        handleChange,
-        values,
-        errors,
-        handleBlur,
-        touched,
-        isSubmitting,
-      }: FormikProps<MyFormValues>) => (
+      render={() => (
         <>
           <Form>
             <ContactWrapper>
               <ContactPageTitle>
-                <h2>Contact</h2>
                 <p>
                   I'm interested in hearing your thoughts and insights on financial environmental activism,
                   especially as they relate to my blog posts. It's one of my reasons for putting up a silly self-promoting website,
@@ -54,49 +46,7 @@ const Contact: React.SFC<{}> = () => {
                 </p>
               </ContactPageTitle>
               <ContactFromWrapper>
-                <InputGroup>
-                  <Input
-                    type="text"
-                    name="firstName"
-                    value={`${values.firstName}`}
-                    onChange={handleChange}
-                    onBlur={handleBlur}
-                    label="Name"
-                    notification={`${
-                      errors.firstName && touched.firstName
-                        ? errors.firstName
-                        : ''
-                    }`}
-                  />
-                  <Input
-                    type="email"
-                    name="email"
-                    value={`${values.email}`}
-                    onChange={handleChange}
-                    onBlur={handleBlur}
-                    label="Email"
-                    notification={`${
-                      errors.email && touched.email ? errors.email : ''
-                    }`}
-                  />
-                </InputGroup>
-                <Input
-                  type="textarea"
-                  name="message"
-                  value={`${values.message}`}
-                  onChange={handleChange}
-                  onBlur={handleBlur}
-                  label="Message"
-                  notification={
-                    errors.message && touched.message ? errors.message : ''
-                  }
-                />
-                <Button
-                  title="Submit"
-                  type="submit"
-                  isLoading={isSubmitting ? true : false}
-                  loader="Submitting.."
-                />
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScL0TljzY4imco86gM8jCXA6KDA0_1OUiUSjik-gK8tg6kFig/viewform?embedded=true" width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
               </ContactFromWrapper>
             </ContactWrapper>
           </Form>
