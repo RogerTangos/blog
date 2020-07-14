@@ -1,21 +1,20 @@
 import React from 'react';
 import Layout from '../components/layout';
+import SEO from '../components/seo';
+import Contact from '../containers/contact';
 
-type ResumePageProps = {};
+type ContactPageProps = {};
 
-const ResumePage: React.FunctionComponent<ResumePageProps> = (props) => {
-    if (typeof window !== 'undefined') {
-       window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLScL0TljzY4imco86gM8jCXA6KDA0_1OUiUSjik-gK8tg6kFig/viewform?usp=sf_link";
-  }
-
+const ContactPage: React.FunctionComponent<ContactPageProps> = () => {
   return (
     <Layout>
-      <p>If the page does not automatically redirect, you can find
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLScL0TljzY4imco86gM8jCXA6KDA0_1OUiUSjik-gK8tg6kFig/viewform?usp=sf_link">
-          the contact form here.
-        </a>.</p>
+      <SEO
+        title="Contact Us"
+        description="StoryHub is a beautiful Gatsby Blog theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website."
+      />
+      <Contact />
     </Layout>
   );
 };
 
-export default ResumePage;
+export default ContactPage;
