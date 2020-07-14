@@ -71,7 +71,15 @@ const PostCardMinimal: React.FunctionComponent<PostCardMinimalProps> = ({
         </PostDateAndPreview>
 
         <PostContent className="post_content">
-
+          {tags == null ? null : (
+            <PostTags className="post_tags">
+              {tags.map((tag: string, index: number) => (
+                <Link key={index} to={`/tags/${_.kebabCase(tag)}/`}>
+                  {`#${tag}`}
+                </Link>
+              ))}
+            </PostTags>
+          )}
           <PostTitle className="post_title">
             <Link to={url}>{title}</Link>
           </PostTitle>
