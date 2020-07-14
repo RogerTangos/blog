@@ -23,6 +23,7 @@ yarn install
 
 gatsby clean
 yarn build
+gatsby serve
 yarn deploy
 
 
