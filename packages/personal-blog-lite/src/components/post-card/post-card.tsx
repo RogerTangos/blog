@@ -69,7 +69,7 @@ const PostCard: React.FunctionComponent<PostCardProps> = ({
 
         <PostContent className="post_content">
           <PostTitle className="post_title">
-            <Link to={url}>{title}</Link>
+            <Link to={"/" + url}>{title}</Link>
           </PostTitle>
           {description && (
             <Excerpt
