@@ -7,7 +7,7 @@ cover: './earth-cream-covid-cone.png'
 slug: 'pandemics-environment'
 ---
 
-# 6 Ways That Pandemics and the Environment Are Inseparable {#intro}
+# 6 Ways That Pandemics and the Environment Are Inseparable
 
 Pandemics, ecology, and climate are hopelessly intertwined. The climate and ecological crisis sickens and displaces both wild animals and human beings. It creates excellent conditions for pests like ticks and mosquitoes to breed as well as for deadly bacteria to multiply. And it literally thaws ancient pathogens from the ground. All of these lead to disease, which, when left unchecked, can result in pandemics.
 
@@ -15,7 +15,7 @@ Pandemics, ecology, and climate are hopelessly intertwined. The climate and ecol
 
 This post explains some of the less-visible connections between infectious disease and the climate and ecological crisis; how many pandemics begin; and how, by fighting against environmental destruction, we can also play a part in preventing the next pandemic.
 
-# Pandemics Start with Wild Animals {#pandemics-start-with-wild-animals}
+# Pandemics Start with Wild Animals
 
 ![sick pangolin in a small cage, coughing COVID-19](./panoglin-cough.png)
 
