@@ -8,7 +8,7 @@ slug: 'pandemics-environment'
 ---
 
 <head>
-    <link rel=“canonical” href=https://rebellion.global/blog/2020/07/22/pandemics-environment/” />
+    <link rel="canonical" href="https://rebellion.global/blog/2020/07/22/pandemics-environment/" />
 </head>
 
 Pandemics, ecology, and climate are hopelessly intertwined. The climate and ecological crisis sickens and displaces both wild animals and human beings. It creates excellent conditions for pests like ticks and mosquitoes to breed as well as for deadly bacteria to multiply. And it literally thaws ancient pathogens from the ground. All of these lead to disease, which, when left unchecked, can result in pandemics.
@@ -79,7 +79,7 @@ Extinction Rebellion calls this fight a rebellion. If you are interested in join
 
 **Take a small action: The next time you talk about pandemics, bring environmental issues into the discussion, too. They're more relevant than people may realize.**
 
-*Written by Albert Carter and the [Extinction Rebellion Comic Science Working Group](https://xrscience.earth). Illustrations by Comic Science. This piece is also featured on the <a href=https://rebellion.global/blog/2020/07/22/pandemics-environment/” rel=“canonical”>Extinction Rebellion Blog</a>.*
+*Written by Albert Carter and the [Extinction Rebellion Comic Science Working Group](https://xrscience.earth). Illustrations by Comic Science. This piece is also featured on the <a href="https://rebellion.global/blog/2020/07/22/pandemics-environment/" rel="canonical">Extinction Rebellion Blog</a>.*
 
 *You can contact the author at [https://albertrcarter.com/contact](https://albertrcarter.com/contact)*
 
