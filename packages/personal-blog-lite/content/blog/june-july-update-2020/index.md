@@ -9,9 +9,12 @@ slug: 'june-juy-update-2020'
 
 # 📢 June - July Update
 
-It's August, and time for an update on my activist strategy and activities. Because this is  only for own audience, for distribution via email and the website, it's much rougher than other pieces I may put online.
+It's the end of July, and time for an update on my activist strategy and activities. Because this is only for own audience (distribution via email and the website), it's much rougher than other pieces I may put online.
 
-I'm curious to know what you notice about this. There's a <a href="#survey">📋 survey at the bottom of the page.</a>
+_I'm curious to know what you notice about this. There's a <a href="#survey">📋 survey at the bottom of the page.</a>_
+
+_If you would like to receive emails with similar pieces I write, please let me know at [https://albertrcarter.com/contact](albertrcarter.com/contact)._
+
 
 
 # Activist Strategies
