@@ -42,7 +42,7 @@ NOTE:
   if not solve then try to run
 
 ```
-PUPPETEER_DOWNLOAD_HOST=https://npm.taobao.org/mirrors yarn
+PUPPETEER_DOWNLOAD_HOST=https://npm.taobao.org/mirrors
 or
 sudo npm install puppeteer --unsafe-perm=true --allow-root
 ```
