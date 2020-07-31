@@ -13,7 +13,7 @@ It's the end of July, and time for an update on my activist strategy and activit
 
 _I'm curious to know what you notice about this. There's a <a href="#survey">📋 survey at the bottom of the page.</a>_
 
-_If you would like to receive emails with similar pieces I write, please let me know at [https://albertrcarter.com/contact](albertrcarter.com/contact)._
+_If you would like to receive emails with similar pieces I write, please let me know at [https://albertrcarter.com/contact](https://albertrcarter.com/contact)._
 
 
 
@@ -32,7 +32,7 @@ As with other plans, details are lost with distance, so the later steps are a bi
 
 In activism, my impression is that all people, and especially newcomers, have their own theories of change, opinions, and ideas for campaigns. Unfortunately, newcomers often don't realize the novelty of their ideas, the work that they require, or the resource limitations inherent in volunteer driven movements and organizations that may prevent others from hearing them.
 
-Sometimes, finding a newcomer's ideas unworkable, activists groups will encourage the newcomer to leave. Other times, a newcomer may be discouraged by the group's lack of receptivity, and never return to another meeting. In either case, there's one less person working towards a common cause.
+Sometimes, finding a newcomer's ideas unworkable, activist groups will encourage the newcomer to leave. Other times, a newcomer may be discouraged by the group's lack of receptivity, and never return to another meeting. In either case, there's one less person working towards a common cause.
 
 __My blogging is meant to provide proof that I have thought through my ideas, and that I'm willing to put real work into activist campaigns, including those that aren't my own. I hope that this will make me a desirable asset for most groups that I would like to work with.__
 
@@ -49,7 +49,7 @@ I am a technically trained person. My training was expensive, and I would like t
 2. Activist groups would be well served by attracting professionally and technically trained people
 3. Activist groups could better attract these people if they had more interesting work for them to do.
 
-This may all seem vague... I'm writing about making websites and fixing people's laptops, and why I would rather do other things with my time. It's unfortunate but understandable this is where technical activists are often steered. For me at least, it's not best use of my skills, or even what I want to do.
+This may all seem vague... I'm writing about making websites and fixing people's laptops, and why I would rather do other things with my time. It's unfortunate but understandable this is where technical activists are often steered. For me at least, it's not the best use of my skills, or even what I want to do.
 
 **I see technical and professional skills as a force multiplier and fertile grounds for creativity. Hopefully, a list of potential projects will build credibility for my ideas, help organizers imagine additional types of creative action, and save me from becoming tech support.**
 
@@ -97,7 +97,7 @@ My work day begins at 10am, Central European Time, and ends between 6 and 7:30 i
 
 
 ## 🇳🇱 Dutch
-My Dutch is progressing steadily. I have not taken any recent comprehensive tests, but strongly suspect that it has reached or exceeded A1 level. In lieu of testing, currently plan to consider it A1 level once I complete [LearnDutch.org](learndutch.org)'s Beginner Grammar Course, and 100% of Babbel's Vocabulary lessons.  My Estimated completion date for my current course of study is September 15th.
+My Dutch is progressing steadily. I have not taken any recent comprehensive tests, but strongly suspect that it has reached or exceeded A1 level. In lieu of testing, I currently plan to consider it A1 level once I complete [LearnDutch.org](learndutch.org)'s Beginner Grammar Course, and 100% of [Babbel](https://www.babbel.com)'s Vocabulary lessons.  My Estimated completion date for my current course of study is September 15th.
 
 
 ## 🏠 Non-Dutch-Non-Activist Activities
