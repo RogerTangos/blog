@@ -17,7 +17,7 @@ _This campaign is presented in draft form. It would be helpful to know what you 
 
 # 2. Crashing the Roadshow
 
-In December 2008, [Tim DeChristopher bid $1.8 million for oil and gas rights on leasable land, with no intention to pay.](https://archive.sltrib.com/article.php?id=52220178&amp;itype=CMSID) His protest [drove up the price of the parcels, disrupted bidding](https://www.nytimes.com/2008/12/21/us/21drilling.html), and eventually led to [him being sentenced to jail](https://www.theguardian.com/world/2011/jul/27/tim-dechristopher-jailed-two-years), and the [cancellation of the oil and gas leases](https://www.nytimes.com/2009/02/05/us/05leases.html).
+In December 2008, [Tim DeChristopher bid $1.8 million for oil and gas rights on lease-able land, with no intention to pay.](https://archive.sltrib.com/article.php?id=52220178&amp;itype=CMSID) His protest [drove up the price of the parcels, disrupted bidding](https://www.nytimes.com/2008/12/21/us/21drilling.html), and eventually led to [him being sentenced to prison](https://www.theguardian.com/world/2011/jul/27/tim-dechristopher-jailed-two-years), and the [cancellation of the oil and gas leases](https://www.nytimes.com/2009/02/05/us/05leases.html).
 
 The auction was a small technical venue unprepared and unaccustomed to . His protest was effective and brilliant because it used this to target the industry where it hurt most: Their balance sheets.
 
@@ -45,9 +45,9 @@ This campaign can take several forms. All forms depend on knowing when and where
 
 ### Logistics for an overt disruption
 
-1. **Create a pamphlet or flyer with your questions**. These should be narrowly focused on financial concerns. Public opinion and environmental impacts should probably be included only in as much as they affect the endeavor's riskiness and its bottom line. For extra effect, your flyer or pamphlet can ask attendees to leak information to you.
+1. **Create a pamphlet or flier with your questions**. These should be narrowly focused on financial concerns. Public opinion and environmental impacts should probably be included only in as much as they affect the endeavor's riskiness and its bottom line. For extra effect, your flier or pamphlet can ask attendees to leak information to you.
 2. **Expose potential investors to the damage they may do.** Advertise [pictures](https://en.wikipedia.org/wiki/Deepwater_Horizon_oil_spill#/media/File:Defense.gov_photo_essay_100506-N-6070S-819.jpg) and news articles of the last environmental catastrophe from a similar project. Because there are few investors in a single project, the advertising budget for this would be relatively small.
-3. **Stage an [Extinction Rebellion style blockade or die-in](https://extinctionrebellion.uk/event/die-in/) outside (or inside) of the venue. Pass out the pamphlet or flyer.** If the questions listed on the flyer are reasonableand the last catastrophes are fresh on investors' minds, they'll be inclined to ask them. After all, you're helping the investors do their jobs.
+3. **Stage an [Extinction Rebellion style blockade or die-in](https://extinctionrebellion.uk/event/die-in/) outside (or inside) of the venue. Pass out the pamphlet or flier.** If the questions listed on the flier are reasonable and the last catastrophes are fresh on investors' minds, they'll be inclined to ask them. After all, you're helping the investors do their jobs.
 
 ### Logistics for and undercover disruption
 
@@ -66,7 +66,7 @@ This campaign can take several forms. All forms depend on knowing when and where
 - **On sneaking in:** I have run and worked at high-ticket-price conferences. Because I never wanted to upset potential donors, collaborators, or investors, I almost always assumed that missing guest registrations were my administrative mistake and let people in.
   - **a strategy for sneaking into in-person roadshows:** you might arrive in a nice suit before an important speaker is about to go on stage. Tell the secretary that the speaker invited you a bit late and would love to see you in the audience. Ask if you can sort it out later. Walk in. Maybe they'll even give you a name tag.
   - **a strategy for sneaking into online roadshows:** you might call a manager's secretary, mumble something about tech problems, and ask them to send you a meeting invitation.
-- The object of this sort of campaign is **not to scream or judge** (That would just harden opposition to environmental causes and achieve very little.) but to influence potential infestors, helping raise reasonable financial and moral concerns.
+- The object of this sort of campaign is **not to scream or judge** (That would just harden opposition to environmental causes and achieve very little.) but to influence potential investors, helping raise reasonable financial and moral concerns.
 
 ## Sample questions to investors
 
