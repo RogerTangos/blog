@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-1d58a10ecaaf475fb066.js"
+    "url": "webpack-runtime-8237152d346e12d8c563.js"
   },
   {
     "url": "styles.bb4b907a554e42a7ca01.css"
@@ -43,7 +43,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "1b51216316713fb693670a7cceade3ee"
+    "revision": "ecff831635a2089ad9b1e7df832163bf"
   },
   {
     "url": "google-fonts/s/firasans/v10/va9B4kDNxMZdWfMOD5VnLK3eRhf6.woff2",
@@ -70,24 +70,24 @@ self.__precacheManifest = [
     "revision": "78773521b0ffe376bc7edd8ec2a591fb"
   },
   {
-    "url": "google-fonts/s/poppins/v11/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2",
-    "revision": "f4f17fd53c7d040e56f91a3ecb692b22"
+    "url": "google-fonts/s/poppins/v9/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2",
+    "revision": "e535f7856b24153e0f3146e8f90a45c5"
   },
   {
-    "url": "google-fonts/s/poppins/v11/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2",
-    "revision": "9ddc04912d6e8f88d9de4045b8b89c59"
+    "url": "google-fonts/s/poppins/v9/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2",
+    "revision": "e8794816c5eaeaa9dd20a6d77ea3b272"
   },
   {
-    "url": "google-fonts/s/poppins/v11/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2",
-    "revision": "087457026965f98466618a478c4b1b07"
+    "url": "google-fonts/s/poppins/v9/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2",
+    "revision": "aa4405ed937295296cf8510f437628e0"
   },
   {
-    "url": "google-fonts/s/poppins/v11/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2",
-    "revision": "84780596e268aa0cb2be48af2ed5c375"
+    "url": "google-fonts/s/poppins/v9/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2",
+    "revision": "61e2d96d01a7eba5ea3ec1bad7e736a8"
   },
   {
-    "url": "google-fonts/s/poppins/v11/pxiEyp8kv8JHgFVrJJfecg.woff2",
-    "revision": "9ed361bba8488aeb2797b82befda20f1"
+    "url": "google-fonts/s/poppins/v9/pxiEyp8kv8JHgFVrJJfecg.woff2",
+    "revision": "1a280523d375e9358d5229df34fc8e94"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-d689279f142b10cc0fc4.js"
