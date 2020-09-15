@@ -40,7 +40,7 @@ Bike points make places more livable. They are a fantastic navigational suppleme
 
 As a case study, we used GIS data, network-generation algorithms, and subject matter expertise from local bicyclists to create a sample map of the Boston/Cambridge area.
 
-**Though the map has only 27 intersections, it provides a high level of regional connectedness.** Further refinement is possible and encouraged; during the planning stages, tweaking junction locations or paths can be done quickly with a revisualization of the results. **We estimate the entire material cost of the signs, poles, and occasional wayfinding maps for this network would be $24,000.** This is roughly the cost of 5 yards of interstate highway.¹
+**Though the map has only 27 intersections, it provides a high level of regional connectedness.** Further refinement is possible and encouraged; during the planning stages, tweaking junction locations or paths can be done quickly with a revisualization of the results. **We estimate the entire material cost of the signs, poles, and occasional wayfinding maps for this network would be $24,000.** This is roughly the cost of 5 yards of interstate highway.[^1]
 
 
 ![Map of Boston. Key intersections are numbered. There are highlighted routes between those intersections.](./full-boston-map.png)
@@ -109,7 +109,7 @@ We also estimate eight stationary wayfinding maps to cover the network’s 27 no
 
 # Next steps — would you like to see a bike network?
 
-If you like the idea of a bike point network, please share this article with your local city, county, or state government, and ask them to start a pilot project.
+If you like the idea of a bike point network, please share this article with your local city, county, or state government, and ask them to start a pilot project. This is not a politically difficult project, but needs a champion, because it's new.
 
 This is currently an unpaid hobby that we would be happy to turn into paid work. **We can offer rough bike network maps of anywhere in the US, data on the location and number of signs needed, and help customizing maps.**
 
@@ -120,3 +120,6 @@ We think it would be best to launch a limited pilot project, and are interested 
 [al@albertrcarter.com](mailto:al@albertrcarter.com) | [github.com/rogertangos](github.com/rogertangos) | [twitter.com/al_carter](twitter.com/al_carter)
 
 [alexander.w.crompton@gmail.com](mailto:alexander.w.crompton@gmail.com) | [github.com/cromptone](github.com/cromptone)
+
+
+[^1]: We used a \$2,234,000 per mile [estimate of single-lane rolling-hill rural interstate reconstruction](https://www.strongtowns.org/journal/2020/1/27/how-much-does-a-mile-of-road-actually-cost). With 1760 yards in a mile, $2,234,000 /1760 = $1269 per yard. $24,000 / $1,269 per yard = 19 yards of single-lane interstate, or roughly 5 yards of four-lane interstate. We are likely overestimating the number of yards of interstate constructable for $24,000, because the real cost of interstate construction also includes rock blasting, excavation, and additional signage.
