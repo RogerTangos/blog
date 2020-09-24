@@ -40,7 +40,7 @@ Bike points make places more livable. They are a fantastic navigational suppleme
 
 As a case study, we used GIS data, network-generation algorithms, and subject matter expertise from local bicyclists to create a sample map of the Boston/Cambridge area.
 
-**Though the map has only 27 intersections, it provides a high level of regional connectedness.** Further refinement is possible and encouraged; during the planning stages, tweaking junction locations or paths can be done quickly with a revisualization of the results. **We estimate the entire material cost of the signs, poles, and occasional wayfinding maps for this network would be $24,000.** This is roughly the cost of 5 yards of interstate highway.[^1]
+**Though the map has only 27 intersections, it provides a high level of regional connectedness.** Further refinement is possible and encouraged; during the planning stages, tweaking junction locations or paths can be done quickly with a revisualization of the results. **We estimate the entire material cost of the signs, poles, and occasional wayfinding maps for this network would be $24,000.** This is roughly 1/10 the cost of purchasing and installing a traffic light.[^1]
 
 
 ![Map of Boston. Key intersections are numbered. There are highlighted routes between those intersections.](./full-boston-map.png)
@@ -122,4 +122,4 @@ We think it would be best to launch a limited pilot project, and are interested 
 [alexander.w.crompton@gmail.com](mailto:alexander.w.crompton@gmail.com) | [github.com/cromptone](github.com/cromptone)
 
 
-[^1]: We used a \$2,234,000 per mile [estimate of single-lane rolling-hill rural interstate reconstruction](https://www.strongtowns.org/journal/2020/1/27/how-much-does-a-mile-of-road-actually-cost). With 1760 yards in a mile, $2,234,000 /1760 = $1269 per yard. $24,000 / $1,269 per yard = 19 yards of single-lane interstate, or roughly 5 yards of four-lane interstate. We are likely overestimating the number of yards of interstate constructable for $24,000, because the real cost of interstate construction also includes rock blasting, excavation, and additional signage.
+[^1]: Traffic Signals. (2019, November 15). Retrieved September 10, 2020, from [https://wsdot.wa.gov/Operations/Traffic/signals.htm](https://wsdot.wa.gov/Operations/Traffic/signals.htm)
