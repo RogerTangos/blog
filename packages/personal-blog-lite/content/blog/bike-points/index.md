@@ -8,6 +8,9 @@ slug: 'bike-points'
 ---
 *by [Albert Carter](https://albertrcarter.com) and [Alex Crompton](github.com/cromptone). You can also find [this piece on medium](https://medium.com/@albertrcarter/a-dutch-import-we-can-all-love-bike-points-cf0f77058c20).*
 
+*Update, October 15, 2020: The City of Cambridge, MA is showing some interest in this, since it fits well into the Cambridge 2020 Bicycle Plan. If you're also interested in this, please encourage them to adopt the proposal. Emails can go to [cddat344@cambridgema.gov](cddat344@cambridgema.gov) and you can find a full [PDF writeup here](./Cambridge_Proposal.pdf).*
+
+
 <iframe src='https://gfycat.com/ifr/UnacceptableRemorsefulBighornedsheep' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe>
 
 **On a Friday night, Kelsey Rennebohm lost her balance. She was a 28 years old graduate student at Boston College, biking home on Huntington Avenue. The bus behind her didn’t react in time and hit her. She died. But what if she had been on another street?**
