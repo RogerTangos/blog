@@ -9,9 +9,11 @@ slug: 'crash-the-roadshow-against-fossil-fuels'
 
 _This is one of a series of potential tactics against fossil fuel companies, meant to limit their ability to supply fossil fuels._
 
-[1. Leaks for Liability](./leaks-for-liability-against-fossil-fuels) | [2. Crashing the Roadshow](./crash-the-roadshow-against-fossil-fuels) (you are here) | [3. Amplifying Corporate Dissent](./amplifying-corporate-dissent-against-fossil-fuels)
+[1. Phishing for Leaks](./leaks-for-liability-against-fossil-fuels) | [2. Crashing the Roadshow](./crash-the-roadshow-against-fossil-fuels) (you are here) | [3. Amplifying Corporate Dissent](./amplifying-corporate-dissent-against-fossil-fuels)
 
 _This campaign is presented in draft form. It would be helpful to know what you think, what you find interesting, and potential issues. **If you have expertise in underwriting, oil or gas drilling, recruiting, or other mentioned fields, and would like to contribute your knowledge, please [contact me](#survey). Industry insiders and insights make these posts possible.**_
+
+*October 26, 2020 Edit: It seems that this type of action is coming too late, as it's already being done. An anonymous contributor sent in some useful thoughts on this piece. They are lightly edited and included at the bottom.*
 
 ---
 
@@ -90,8 +92,34 @@ _This is one of a series of potential tactics to use against fossil fuel compani
 
 [1. Leaks for Liability](./leaks-for-liability-against-fossil-fuels) | [2. Crashing the Roadshow](./crash-the-roadshow-against-fossil-fuels) (you are here) | [3. Amplifying Corporate Dissent](./amplifying-corporate-dissent-against-fossil-fuels)
 
----
 
-<a name="survey"></a>
-# What do you think?
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf6yAaSzKE1FuO6nQQX882V36upqQJ3_OXj9NanSFSCxU3_yA/viewform?embedded=true" width="640" height="1722" frameborder="0" marginheight="0" marginwidth="0">Loading Survey…</iframe>
+---
+# Reader Response:
+
+This is very intriguing, although late to the game. And of course, these days everything is virtual. Let me make a few points.
+
+
+## There are two kinds of road shows:
+
+1.	Ones where the company is trying to raise capital (usually equity)
+2.	Non-deal roadshows, where they are just updating current and potential investors without a particular transaction pending.
+
+Company managements tend to be very heavily coached when the road show involves a deal and are limited by the SEC as to what they can say. I’ve been to a lot of these over the years.
+
+## Only big investors or investors seen as particularly sophisticated and likely to be long term holders get offered one on ones.
+
+No one needs to hide in the bathroom to avoid being offered one; they are widely sought after. I was rarely a big enough investor to get one on ones for big deals but I did get a lot of one on ones with big companies either by being the only one in [redacted mid-sized city]  willing to take a meeting on late Friday afternoon or by being known to company management from previous encounters.
+
+I’ve never tried to sneak into a road show so I have no idea how easy it is. I’m sure it’s possible but not always. I also don’t know how to track upcoming roadshows since 
+
+I was always invited. The brokers generally want as many people there as possible since it makes them look good. 
+Many road shows never go beyond New York or London so anyone who wants to attend a lot of them needs to be based in one of those two cities. 
+
+## With respect to the oil industry in particular, there are likely to be very few roadshows that actually involve a deal.
+
+None of the big oil companies needs to raise equity while bond issuance is usually done very quickly, often without a roadshow. Financing for a particular project as opposed to general financing for the company almost never involves a public roadshow. Individual projects are generally funded by the project finance arms of banks, which then syndicate the loans to a relatively small number of big investors.
+
+## This is already being done
+
+A final point is that I’m not actually sure what this would accomplish. A number of large and small institutional investors have already been holding oil companies’ feet to the fire in both public and private forums for some time and asking precisely the questions that this post is planning to ask. In fact, they are coordinating with each other extensively. There is an organization in Cambridge, Massachusetts called Ceres that many institutional investors who want to combat climate change are members of. It’s worth checking out: [www.ceres.org](www.ceres.org)
+

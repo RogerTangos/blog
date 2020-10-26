@@ -1,5 +1,5 @@
 ---
-title: "1. Leaks for Liability: A Tactic to Take Down Fossil Fuels"
+title: "1. Phishing for Leaks: A Tactic to Take Down Fossil Fuels"
 date: '2020-08-25'
 description: 'Encouraging industry insiders to leak. One of 3 tactics to take down fossil fuels.'
 tags: ['activism', 'programming', 'financialactivism']
@@ -9,7 +9,7 @@ slug: 'leaks-for-liability-against-fossil-fuels'
 
 _This is one of a series of potential tactics against fossil fuel companies, meant to limit their ability to supply fossil fuels._
 
-[1. Leaks for Liability](./leaks-for-liability-against-fossil-fuels) (you are here) | [2. Crashing the Roadshow](./crash-the-roadshow-against-fossil-fuels) | [3. Amplifying Corporate Dissent](./amplifying-corporate-dissent-against-fossil-fuels)
+[1. Phishing for Leaks](./leaks-for-liability-against-fossil-fuels) (you are here) | [2. Crashing the Roadshow](./crash-the-roadshow-against-fossil-fuels) | [3. Amplifying Corporate Dissent](./amplifying-corporate-dissent-against-fossil-fuels)
 
 _This campaign is presented in draft form. It would be helpful to know what you think, what you find interesting, and potential issues. **If you have expertise in underwriting, oil or gas drilling, recruiting, or other mentioned fields, and would like to contribute your knowledge, please [contact me](#survey). Industry insiders and insights make these posts possible.**_
 
