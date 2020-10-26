@@ -6,7 +6,7 @@ tags: ['datascience', 'bicycling', 'programming']
 cover: './point-86.jpg'
 slug: 'bike-points'
 ---
-*by [Albert Carter](https://albertrcarter.com) and [Alex Crompton](github.com/cromptone). You can also find [this piece on medium](https://medium.com/@albertrcarter/a-dutch-import-we-can-all-love-bike-points-cf0f77058c20).*
+*by [Albert Carter](https://albertrcarter.com) and [Alex Crompton](github.com/cromptone).*
 
 *Update, October 15, 2020: The City of Cambridge, MA is showing some interest in this, since it fits well into the Cambridge 2020 Bicycle Plan. If you're also interested in this, please encourage them to adopt the proposal. Emails can go to [cddat344@cambridgema.gov](cddat344@cambridgema.gov) and you can find a full [PDF writeup here](./Cambridge_Proposal.pdf).*
 
