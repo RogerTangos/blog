@@ -2,7 +2,7 @@
 title: June-July Update
 date: '2020-07-31'
 description: An update on my strategy and activities in June and July, 2020
-tags: ['activism', 'Dutch', 'acountability']
+tags: ['activism', 'Dutch', 'accountability']
 cover: './loudspeaker.png'
 slug: 'june-juy-update-2020'
 ---
