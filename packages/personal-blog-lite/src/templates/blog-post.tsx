@@ -111,7 +111,7 @@ const BlogPostTemplate = (props: any) => {
               <RelatedPostItem key={node.fields.slug}>
                 <PostCard
                   title={node.frontmatter.title || node.fields.slug}
-                  url={node.fields.slug}
+                  url={"/" + node.fields.slug}
                   image={
                     node.frontmatter.cover == null
                       ? null
