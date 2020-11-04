@@ -40,12 +40,11 @@ const Contact: React.SFC<{}> = () => {
             <ContactWrapper>
               <ContactPageTitle>
                 <p>
-                If you received a letter, I'm glad you read it and made it all the way here.
+                  Would you like to receive occasional updates? Would you like to share your thoughts and insights on financial environmental activism.
+                  Or are you simply reaching out to hi?
                 </p>
                 <p>
-                  Would you share your thoughts and insights on financial environmental activism?<br />
-                  Or would you just like to say hi?<br />
-                  Please send away!
+                 I read all messages, but don't always respond.
                 </p>
               </ContactPageTitle>
               <ContactFromWrapper>
