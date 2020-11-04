@@ -8,6 +8,8 @@ slug: 'bike-points'
 ---
 *by [Albert Carter](https://albertrcarter.com) and [Alex Crompton](github.com/cromptone).*
 
+*Update, November 4, 2020: a [BikePoints website](https://www.bikepoints.org) is now live.*
+
 *Update, October 15, 2020: The City of Cambridge, MA is showing some interest in this, since it fits well into the Cambridge 2020 Bicycle Plan. If you're also interested in this, please encourage them to adopt the proposal. Emails can go to [cddat344@cambridgema.gov](cddat344@cambridgema.gov) and you can find a full [PDF writeup here](./Cambridge_Proposal.pdf).*
 
 
