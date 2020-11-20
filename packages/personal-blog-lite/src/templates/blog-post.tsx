@@ -7,6 +7,10 @@ import Layout from '../components/layout';
 import SEO from '../components/seo';
 import PostCard from '../components/post-card/post-card';
 import PostDetails from '../components/post-details/post-details';
+import addToMailchimp from 'gatsby-plugin-mailchimp';
+// import './mailchimp.css';
+
+
 import {
   FacebookShareButton,
   TwitterShareButton,
@@ -31,6 +35,8 @@ import {
   BlogPostComment,
 } from './templates.style';
 
+  
+
 const BlogPostTemplate = (props: any) => {
   const post = props.data.markdownRemark;
   const { edges } = props.data.allMarkdownRemark;
@@ -43,6 +49,45 @@ const BlogPostTemplate = (props: any) => {
     shortname: process.env.DISQUS_NAME,
     config: { identifier: slug, title },
   };
+
+  
+
+
+
+  interface IState {
+      value: string; 
+  } 
+
+
+  // this.state = {
+  //     playOrPause: 'Play'
+  //   };
+
+  // 2. via `async/await`
+  // const _handleSubmit = async (e) => {
+  //   e.preventDefault();
+  //   const result = await addToMailchimp(email, listFields)
+  //   // I recommend setting `result` to React state
+  //   // but you can do whatever you want
+  // }
+
+
+
+
+  const _handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    // const result = await addToMailchimp(email, listFields)
+    console.log('handleSubmit Hit')
+    const result = await addToMailchimp("email", "listfields")
+  };
+
+  const _handleChange = (e: React.FormEvent) => {
+    // @ts-ignore
+    IState({value: e.target.value});
+  }
+
+
+
   return (
     <Layout>
       <SEO
@@ -74,6 +119,17 @@ const BlogPostTemplate = (props: any) => {
               ))}
             </PostTags>
           )}
+
+          <form onSubmit={_handleSubmit}>
+            Keep in touch via the email list:<br />
+            <label>
+              <input type="text" name="email" value={"email"} onChange={_handleChange}/>
+            </label>
+            <input type="submit" value="Subscribe"  />
+
+          </form>
+
+
           <PostShare>
             <span>Share This:</span>
             <FacebookShareButton url={shareUrl} quote={post.excerpt}>
