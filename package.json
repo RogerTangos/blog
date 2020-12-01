@@ -36,7 +36,8 @@
     "serve:beauty": "yarn workspace @blog/beauty serve",
     "build": "yarn workspace @blog/personal-lite build",
     "dev": "yarn workspace @blog/personal-lite develop",
-    "deploy": "gatsby build && gh-pages -d packages/personal-blog-lite/public -b master"
+    "deploy": "gatsby build && gh-pages -d packages/personal-blog-lite/public -b master",
+    "preload-fonts": "gatsby-preload-fonts"
   },
   "devDependencies": {
     "lerna": "^3.13.1",
@@ -58,6 +59,7 @@
     "gatsby": "^2.22.19",
     "gatsby-plugin-mailchimp": "^5.2.2",
     "gatsby-plugin-matomo": "^0.8.3",
+    "gatsby-plugin-preload-fonts": "^1.4.0",
     "gh-pages": "^3.0.0"
   }
 }

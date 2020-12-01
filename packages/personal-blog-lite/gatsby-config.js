@@ -11,6 +11,7 @@ module.exports = {
     siteUrl: `https://albertrcarter.com`,
   },
   plugins: [
+    `gatsby-plugin-preload-fonts`,
     {
       resolve: 'gatsby-plugin-matomo',
       options: {
@@ -120,6 +121,6 @@ module.exports = {
     },
     {
       resolve: `gatsby-plugin-lodash`,
-    },
+    }
   ],
 };

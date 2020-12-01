@@ -27,9 +27,19 @@ gatsby serve
 yarn deploy
 
 
-
 yarn add -W gatsby-plugin-matomo
 ```
+
+
+
+Installing Fonts
+```
+yarn dev
+
+## Inside of personal-blog-lite
+yarn preload-fonts
+```
+
 
 ## [Documentation](/DOCUMENTATION.md)
 
