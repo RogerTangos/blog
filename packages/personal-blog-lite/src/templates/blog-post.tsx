@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { graphql, Link } from 'gatsby';
 import _ from 'lodash';
 import urljoin from 'url-join';
@@ -8,7 +8,6 @@ import SEO from '../components/seo';
 import PostCard from '../components/post-card/post-card';
 import PostDetails from '../components/post-details/post-details';
 import addToMailchimp from 'gatsby-plugin-mailchimp';
-// import './mailchimp.css';
 
 
 import {
@@ -44,48 +43,54 @@ const BlogPostTemplate = (props: any) => {
   const slug = post.fields.slug;
   const siteUrl = props.data.site.siteMetadata.siteUrl;
   const shareUrl = urljoin(siteUrl, slug);
+  const [email, setEmail] = useState('');
+  const [mcResponse, setMcResponse] = useState<SignUpStatus | undefined>(
+    undefined);
 
   const disqusConfig = {
     shortname: process.env.DISQUS_NAME,
     config: { identifier: slug, title },
   };
 
-  
-
-
-
   interface IState {
       value: string; 
   } 
 
-
-  // this.state = {
-  //     playOrPause: 'Play'
-  //   };
-
-  // 2. via `async/await`
-  // const _handleSubmit = async (e) => {
-  //   e.preventDefault();
-  //   const result = await addToMailchimp(email, listFields)
-  //   // I recommend setting `result` to React state
-  //   // but you can do whatever you want
-  // }
-
-
-
-
-  const _handleSubmit = async (e: React.FormEvent) => {
+const handleSubmit = async (e: FormEvent) => {
     e.preventDefault();
-    // const result = await addToMailchimp(email, listFields)
-    console.log('handleSubmit Hit')
-    const result = await addToMailchimp("email", "listfields")
+
+    setMcResponse(undefined);
+
+    if (!email) return;
+
+    try {
+      const response = await addToMailchimp(email, { FNAME: name });
+      handleResult(response.result, response.msg);
+    } catch (e) {
+      setMcResponse({
+        success: false,
+        msg: "Something went wrong, please let me know via the contact form or try again later.",
+      });
+      console.log(e);
+    }
   };
 
-  const _handleChange = (e: React.FormEvent) => {
-    // @ts-ignore
-    IState({value: e.target.value});
-  }
+  const handleResult = (result: string, message: string) => {
+    const success = result === "success";
+    if (!success) {
+      const msg = message.includes("already subscribed")
+        ? "This email has already been subscribed."
+        : "Something went wrong, please let me know via the contact form or try again later.";
+      setMcResponse({ success, msg });
+    } else {
+      setMcResponse({ success, msg: "Thank you for subscribing! Talk to you soon :)" });
+    }
+  };
 
+
+  const handleEmailChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+    setEmail(event.currentTarget.value);
+  };
 
 
   return (
@@ -119,15 +124,31 @@ const BlogPostTemplate = (props: any) => {
               ))}
             </PostTags>
           )}
+          
+          
 
-          <form onSubmit={_handleSubmit}>
-            Keep in touch via the email list:<br />
-            <label>
-              <input type="text" name="email" value={"email"} onChange={_handleChange}/>
-            </label>
-            <input type="submit" value="Subscribe"  />
+          // <form onSubmit={handleSubmit}>
+          //   <p
+          //     className={`response ${
+          //       mcResponse
+          //         ? mcResponse?.success
+          //           ? "success"
+          //           : "error"
+          //         : ""
+          //     }`}
+          //   >
+          //       {mcResponse?.msg}
+          //       <br />
+          //       Subscribe to the low traffic email list:
+          //   </p>
 
-          </form>
+          //   <label>
+          //     <input type="text" name="email" placeholder="your email" onChange={handleEmailChange}/>
+          //   </label>
+          //   <input type="submit" value="Subscribe"
+          //     />
+
+          // </form>
 
 
           <PostShare>
