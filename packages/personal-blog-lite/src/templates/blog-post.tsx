@@ -123,28 +123,28 @@ const handleSubmit = async (e: any) => {
           
           
 
-          // <form onSubmit={handleSubmit}>
-          //   <p
-          //     className={`response ${
-          //       mcResponse
-          //         ? mcResponse?.success
-          //           ? "success"
-          //           : "error"
-          //         : ""
-          //     }`}
-          //   >
-          //       {mcResponse?.msg}
-          //       <br />
-          //       Subscribe to the low traffic email list:
-          //   </p>
+          <form onSubmit={handleSubmit}>
+            <p
+              className={`response ${
+                mcResponse
+                  ? mcResponse?.success
+                    ? "success"
+                    : "error"
+                  : ""
+              }`}
+            >
+                {mcResponse?.msg}
+                <br />
+                Subscribe to the low traffic email list:
+            </p>
 
-          //   <label>
-          //     <input type="text" name="email" placeholder="your email" onChange={handleEmailChange}/>
-          //   </label>
-          //   <input type="submit" value="Subscribe"
-          //     />
+            <label>
+              <input type="text" name="email" placeholder="your email" onChange={handleEmailChange}/>
+            </label>
+            <input type="submit" value="Subscribe"
+              />
 
-          // </form>
+          </form>
 
 
           <PostShare>
