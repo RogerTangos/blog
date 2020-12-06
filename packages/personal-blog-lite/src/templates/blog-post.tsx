@@ -52,11 +52,7 @@ const BlogPostTemplate = (props: any) => {
     config: { identifier: slug, title },
   };
 
-  interface IState {
-      value: string; 
-  } 
-
-const handleSubmit = async (e: FormEvent) => {
+const handleSubmit = async (e: any) => {
     e.preventDefault();
 
     setMcResponse(undefined);
@@ -69,9 +65,9 @@ const handleSubmit = async (e: FormEvent) => {
     } catch (e) {
       setMcResponse({
         success: false,
-        msg: "Something went wrong, please let me know via the contact form or try again later.",
+        msg: "Something went wrong, please let me know by emailing al@albertrcarter.com or try again later.",
       });
-      console.log(e);
+      console.error(e);
     }
   };
 
