@@ -44,8 +44,7 @@ const BlogPostTemplate = (props: any) => {
   const siteUrl = props.data.site.siteMetadata.siteUrl;
   const shareUrl = urljoin(siteUrl, slug);
   const [email, setEmail] = useState('');
-  const [mcResponse, setMcResponse] = useState<SignUpStatus | undefined>(
-    undefined);
+  const [mcResponse, setMcResponse] = useState<undefined>(undefined);
 
   const disqusConfig = {
     shortname: process.env.DISQUS_NAME,
@@ -58,14 +57,13 @@ const handleSubmit = async (e: any) => {
     setMcResponse(undefined);
 
     if (!email) return;
-
     try {
       const response = await addToMailchimp(email, { FNAME: name });
       handleResult(response.result, response.msg);
     } catch (e) {
       setMcResponse({
         success: false,
-        msg: "Something went wrong, please let me know by emailing al@albertrcarter.com or try again later.",
+        msg: "Something went wrong, please try again or let me know by emailing al@albertrcarter.com.",
       });
       console.error(e);
     }
@@ -76,7 +74,7 @@ const handleSubmit = async (e: any) => {
     if (!success) {
       const msg = message.includes("already subscribed")
         ? "This email has already been subscribed."
-        : "Something went wrong, please let me know via the contact form or try again later.";
+        : 'Something went wrong, please let me know at al@albertrcarter.com.';
       setMcResponse({ success, msg });
     } else {
       setMcResponse({ success, msg: "Thank you for subscribing! Talk to you soon :)" });
@@ -121,30 +119,7 @@ const handleSubmit = async (e: any) => {
             </PostTags>
           )}
           
-          
-
-          <form onSubmit={handleSubmit}>
-            <p
-              className={`response ${
-                mcResponse
-                  ? mcResponse?.success
-                    ? "success"
-                    : "error"
-                  : ""
-              }`}
-            >
-                {mcResponse?.msg}
-                <br />
-                Subscribe to the low traffic email list:
-            </p>
-
-            <label>
-              <input type="text" name="email" placeholder="your email" onChange={handleEmailChange}/>
-            </label>
-            <input type="submit" value="Subscribe"
-              />
-
-          </form>
+         
 
 
           <PostShare>
@@ -168,6 +143,20 @@ const handleSubmit = async (e: any) => {
               <IoLogoReddit />
             </RedditShareButton>
           </PostShare>
+
+          <form onSubmit={handleSubmit}>
+            <label style={{minWidth: "15em"}}>
+              <input type="text" name="email" placeholder="your@email" onChange={handleEmailChange} 
+              style={{textAlign: "center", height: "2em", minWidth: "14em"}} />
+            </label>
+            <input type="submit" value="Subscribe"
+              style={{backgroundColor: "#f73b98", color: "white", marginLeft: "1em", fontStyle: "bold", 
+              height: "2em", minWidth: "5em", border: "white", borderRadius: "4px", cursor: "pointer"}}
+              />
+              <span style={{color: "#f73b98"}}><br />{mcResponse?.msg}</span>
+
+          </form>
+
         </BlogPostFooter>
         <BlogPostComment
           className={post.frontmatter.cover == null ? 'center' : ''}
