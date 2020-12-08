@@ -4,9 +4,9 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: `StoryHub`,
+    title: `Environmental Financial Activism`,
     author: `Albert Carter`,
-    about: `I'm on a journey to becoming a full time environmental financial activist. I'd love it if you joined me.`,
+    about: `Programmer and financial environmental activist.`,
     description: `Blog`,
     siteUrl: `https://albertrcarter.com`,
   },

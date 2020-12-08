@@ -12,13 +12,11 @@ import MailchimpTemplate from '../components/mailchimp/mailchimp';
 import {
   FacebookShareButton,
   TwitterShareButton,
-  PinterestShareButton,
   RedditShareButton,
 } from 'react-share';
 import {
   IoLogoFacebook,
   IoLogoTwitter,
-  IoLogoPinterest,
   IoLogoReddit,
 } from 'react-icons/io';
 import {
@@ -90,12 +88,6 @@ const BlogPostTemplate = (props: any) => {
             <TwitterShareButton url={shareUrl} title={title}>
               <IoLogoTwitter />
             </TwitterShareButton>
-            <PinterestShareButton
-              url={shareUrl}
-              media={urljoin(siteUrl, post.frontmatter.cover.publicURL)}
-            >
-              <IoLogoPinterest />
-            </PinterestShareButton>
             <RedditShareButton
               url={shareUrl}
               title={`${post.frontmatter.title}`}

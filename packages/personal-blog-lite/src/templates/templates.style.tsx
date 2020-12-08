@@ -254,8 +254,8 @@ export const PostShare = styled.div`
   > div,
   .react-share__ShareButton {
     cursor: pointer;
-    margin-left: 25px;
-    font-size: 22px;
+    margin-left: 10px;
+    font-size: 18px;
     outline: 0;
     color: ${themeGet('colors.textColor', '#292929')};
     transition: 0.15s ease-in-out;
@@ -306,7 +306,7 @@ export const PostTags = styled.div`
     color: ${themeGet('primary', '#D10068')};
     @media (max-width: 990px) {
       font-size: 13px;
-      margin-right: 25px;
+      margin-right: 15px;
     }
   }
 `;
