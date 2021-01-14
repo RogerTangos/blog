@@ -119,6 +119,22 @@ module.exports = {
     {
       resolve: `gatsby-plugin-typescript`,
     },
+     {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-187038182-1",
+        head: true,
+        anonymize: true,
+        respectDNT: true,
+        exclude: ["/preview/**", "/do-not-track/me/too/"],
+        pageTransitionDelay: 0,
+        variationId: 0,
+        defer: false,
+        sampleRate: 5,
+        siteSpeedSampleRate: 10,
+      
+      },
+    },
     {
       resolve: `gatsby-plugin-lodash`,
     }
