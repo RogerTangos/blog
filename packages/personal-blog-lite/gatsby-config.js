@@ -13,14 +13,6 @@ module.exports = {
   plugins: [
     `gatsby-plugin-preload-fonts`,
     {
-      resolve: 'gatsby-plugin-matomo',
-      options: {
-        siteId: '1',
-        matomoUrl: 'https://albertrcarter.matomo.cloud',
-        siteUrl: 'https://www.albertrcarter.com'
-      }
-    },
-    {
       resolve: `gatsby-plugin-styled-components`,
       options: {
         minify: false, // Breaks styles if not set to false
@@ -126,9 +118,8 @@ module.exports = {
         head: true,
         anonymize: true,
         respectDNT: true,
-        exclude: ["/preview/**", "/do-not-track/me/too/"],
+        exclude: [],
         pageTransitionDelay: 0,
-        variationId: 0,
         defer: false,
         sampleRate: 5,
         siteSpeedSampleRate: 10,
