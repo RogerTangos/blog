@@ -2,7 +2,7 @@
 title: "A Dutch Import We Can All Love: Bike Points"
 date: '2020-09-14'
 description: They're cheap, politically easy, and improve people's lives. Find out what they are, how to make them, and how to bring them to the US.
-tags: ['datascience', 'bicycling', 'programming']
+tags: ['datascience', 'bicycling', 'programming', 'bikepoints']
 cover: './point-86.jpg'
 slug: 'bike-points'
 ---
