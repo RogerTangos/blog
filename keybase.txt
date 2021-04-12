@@ -1,0 +1,87 @@
+==================================================================
+https://keybase.io/arcarter
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://albertrcarter.com
+  * I am arcarter (https://keybase.io/arcarter) on keybase.
+  * I have a public key with fingerprint 8B6D 129C E737 CC00 6217  44D1 4543 5D7B 67F7 31E8
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cb2502c661cb7806805fa8a10ed06db6524ff18648c4ff60dd1c129851d6233f0a",
+      "fingerprint": "8b6d129ce737cc00621744d145435d7b67f731e8",
+      "host": "keybase.io",
+      "key_id": "45435d7b67f731e8",
+      "kid": "0101ec868372c0b1a94e550b011335564d4ace71aa2a23b9e8551a92f29402ff36ed0a",
+      "uid": "e5d69bd1522e745c03222b1d4d576119",
+      "username": "arcarter"
+    },
+    "merkle_root": {
+      "ctime": 1614615287,
+      "hash_meta": "2ae64a16995943c164a33cc0a0e766fb395a4bddd7e1a6119869fb3d97854f54",
+      "seqno": 19259171
+    },
+    "revoke": {
+      "sig_ids": [
+        "9c34b8ede008b3c00185408869c68c97fa8d165d7b3525f4a147001da6bc61170f"
+      ]
+    },
+    "service": {
+      "hostname": "albertrcarter.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1614615288,
+  "expire_in": 157680000,
+  "prev": "5905ab165570961027c844712ff513b321eeec98e72f1be73f8b496d35647a71",
+  "seqno": 71,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFtU2tMFUcYBa0SMK2WNqmtRtpFUCrRnd2dmd1LrQYjUqNRSNSk1dzO7MxetsC9
+l70LonCt1NKXVTSmLzC0oq1CKUIiWMT4ai3SRuMrvoq0BCXa+mjNtWps084STZOm
++2d3Zs93zvnON7Ph0eFxSfGzZy2rCNwBV+J/uErjXp3+RFyFRENsheSrkAr50IsX
+MR5x/YU2k3ySDBTZpAqUFRMhYFKsy0iXoUV0AmTOZMQogopmWUBHmm6KDyQzBkyg
+GDoEDCmqaslEypQsOxjgTtixg66g1SliAmJyrGLTlGWkAKxpDGhQUyHDFGELq4Dr
+orAgFPEqhDlKInyqHRJ7YuEfsvc/+Ie+ZcBNHekqVkyZAmJoHEKZygCoKoRIYxoR
+6oAQhSgqNbgOoQAplmJosmJZKhLNeb5Lh+g4ZMigDEBF4ViDpqwqikIB0xjECADD
+A0a4EyTFXKCJYxLH5Y4UzZSKuVNYxP1OKOR64Zqu7UEAAhoSbDoWDZJIgb+Yu0RU
+KoQjjQBkGNDQVBOIhaqKgIjMMUIWVQ1INMoYwxwQT1hHhthlBtahZkFN+IjwkmBI
+KBgKNAAGwoLDy0KF3FOP2AGRW0TyvSIZpnogqlGdMy7LOlXFEIDgkHXBaCLdNLCY
+MQPIS1eFCrSELQ0LECOImkIay5a0LOrpOWW2OUTvjephBEWUO+6DHKaaoWLhLOyE
+3JAZKhK/C1w3HPF5+bgrwh5+Oaf+B0x+ageZOC2ioow7ETsUFN0I5H+j0zMlXh62
+He63PYQYhC6Lx9PhZYISGjIkVHQAsWwgICvY1DUNAzFdCFSqKoBzbho6x4oFqDiJ
+lk41AzFVnA5MMPg3SwyETxIQnCLAIHFLHS5Fk94dNv6RuPikuJEjhnn3KC4pcczD
+y4Xo6L9nPtnYvrOle37KM7l5JS8NtDzvVF45rXasbCvZtnnHU001Sal5aaz0xtqe
++pd3tR8+9V3d4bf6vt99ftPRTl/vY6t2nF6cUvLN2Q2xyaC/ZkFd2/Lu8DbcYbu5
+ZHPO3pwDW9YmralPWNF4t/rD7cerYvcGi0fNzL+Gpi/qqry80EwYW7Bs3zF6LfG3
+1ImXq38adzP+8fRnD+1quDH/l4Gm9sW3s2h2X97aqjsRUn0SJ7+TmzG29eNzGRud
+vVNwd2LCgmm7y/5YvTP1zWlmecetWEVlSlVvzefgVtRvDc6pz2melxyuGaN3bSFT
+amP7SXZb0a/HGvv/zGkPnPj6enpzStbGq7vSWMPl8+SD7KV3TjRkTNpx/dSWux15
+6xqWtH5W/2VW+vALd7+6OS5tQD0UHbOm/On7DQtu+Qcr3zhY4Uy1+jKq8uduTv90
+UVZ8//Hn5vYceFH7tia7MLq89tLAJPsM5bxvPxh+uLtp/D3S2DzuZP/Rib9fal39
+wsWz4a0XM5dWk8Qfi0qzRkV9nZt64fGWMztH3/blrA/4rg4eqZs9e0/nJ1eSm2s2
+vo33bcrPzV84ccR7gTlp9p5FNz6yemZs6ww3HpnTEotVbl2yfdX9Vrskf2TX+iXT
+61ai6+i1003F79em9144+PpkX1tXbfL5WGDGOR5cN685kjryr5MTRv1c/kX2rAmz
+RiSsSey+l9vzDw==
+=KnYl
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/arcarter
+
+==================================================================
