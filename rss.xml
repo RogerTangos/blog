@@ -1,4 +1,201 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Environmental Financial Activism]]></title><description><![CDATA[Blog]]></description><link>https://albertrcarter.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 12 Apr 2021 19:48:07 GMT</lastBuildDate><item><title><![CDATA[A Conquistador, the Climate Crisis, and the Finances of Atrocity]]></title><description><![CDATA[Content warning: violence, sexual assault Hernán Cortés’ greed knew no bounds. Even after he and his 600 soldiers landed in present-day…]]></description><link>https://albertrcarter.comconquistador-climate-crisis-finances-atrocity</link><guid isPermaLink="false">https://albertrcarter.comconquistador-climate-crisis-finances-atrocity</guid><pubDate>Mon, 12 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;head&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Environmental Financial Activism]]></title><description><![CDATA[Blog]]></description><link>https://albertrcarter.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 02 Jun 2021 15:21:25 GMT</lastBuildDate><item><title><![CDATA[Learning Dutch the Slow Way]]></title><description><![CDATA[The world’s full of pithy headlines: “How to stop procrastinating.” “Learn to code in 15 minutes.” “7 Emails you should send every week…]]></description><link>https://albertrcarter.comhow-to-learn-dutch-the-slow-way</link><guid isPermaLink="false">https://albertrcarter.comhow-to-learn-dutch-the-slow-way</guid><pubDate>Wed, 02 Jun 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The world’s full of pithy headlines: “How to stop procrastinating.” “Learn to code in 15 minutes.” “7 Emails you should send every week.” “How to Learn any Language in 3 Months.”&lt;/p&gt;
+&lt;p&gt;They’re needy. They overpromise. And they underdeliver. They always do.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is post about learning Dutch the slow way,&lt;/strong&gt; which is to say how people actually learn things. There are no shortcuts to language acquisition, and unlike the above headlines, I won’t promise any. You will not master a language in 3 months and Herculean efforts notwithstanding, it’s extremely unlikely that you will be able to speak fluently within a year. However, if you read this, you’ll have a good idea on how to start with Dutch, at least.&lt;/p&gt;
+&lt;p&gt;I am not a polyglot and I do not have a natural predisposition to language learning. In language classroom settings, I’m a middling student.&lt;/p&gt;
+&lt;p&gt;However, over the past year, I have managed to teach myself A2 to B1 Dutch without attending in-person classes. I can manage every-day conversations, but often stumble with vocabulary, expressing emotions, or complex arguments. I can also read well enough to understand a cookbook. If my phone’s predictive typing is on, I can compose text messages.&lt;/p&gt;
+&lt;p&gt;While learning Dutch, I’ve been through a fair number of tools, courses, and books. Here is a review of those tools, and advice on how to use or not use each.&lt;/p&gt;
+&lt;h1&gt;LearnDutch.org&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;learndutch.org&quot;&gt;LearnDutch.org&lt;/a&gt; offers high quality group or solo Dutch lessons. I haven’t had any desire to be on video chat more than I have to be, so have made use of the solo-learning materials, including the free vocabulary lessons and the paid grammar course (€120 for the bundle). There are other free supplemental materials on the site.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://learndutch.org&quot;&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 43.24324324324324%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAABYlAAAWJQFJUiTwAAACgUlEQVQozyXP6U8ScBjAcf6L3vcHtN63Xrg07Vq+MAudmcdSMudVaTnmyjwrN/E+pgSogIKaB2hLFNQ8QLyZ4JFXigieNK0X3xCf7dnv2bPn99nzCCTFudQWvKWhWkJTkxyFQoGiqQm5XOar5dTWVDMzN8/Z3i9OZ/V4V8x4l0Y4menjj22QE/cOx8fHHHjcuN1uBFKplN5OLWplMypVC1qtBrVKSbMP1+l0VJSX06PT89e9yeG4hmObiaN5A0eT7X7Us7uJywft77suwQv9IgxaFc1f8jg52md3YpD97TV/32G3065pw+k5ZcC8jHF6FaN1lUnbNoPmJX5aHYxOOXCsbXF0eIBg6/cO/w5daD5m0VZRgvfcS4+8DsuYyQ/OTFtpUbdxsDjCjvwNu0oxTl+62j6wvrLCxvY66xs2nM5d34YeBM7Tc9zfZJRev0JrcjQWrYIsUSyxMdF+cHFxAUlZGXaLkVV9PQ5dPfauSuzdtVgnusgtDORR5FWKiyPYXF9B4PGesTdppD9LRG++mAFFI3MjBmZnrZcnO5YpLCpifGqOYcsC+gEjNvsS5jEDioZSSrKjiQ2+RmaSkDGzFUGiKJG09HSev0gmISUNUWoGcQlJPI2JIzwyCqHwMTmvEmiXfqal7hOtVdmYe8sZUuUhy4+gvzGLvioRDTlCvkreIRA9Cyc05BYPg4O4F3CDkICb3L8dSOidIIQPAhBF3KVCHIP0fTg1YiF6RRH6mlR6KxPRV4voLounozSezpJoNIVhCJR5T1DmhqEufIq6IIqOkjjfcBK6qpfo/G8SXWW+j776e10KP6SZDDeLGW3JxiTPxCR7zZA0HUNjOgONGfwHwg8cSzvjmFQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;learndutch.org screenshot&quot;
+        title=&quot;learndutch.org screenshot&quot;
+        src=&quot;/static/9aef1db90253ed5082ee2ba6fc19ab86/fcda8/learndutchdotorg.png&quot;
+        srcset=&quot;/static/9aef1db90253ed5082ee2ba6fc19ab86/12f09/learndutchdotorg.png 148w,
+/static/9aef1db90253ed5082ee2ba6fc19ab86/e4a3f/learndutchdotorg.png 295w,
+/static/9aef1db90253ed5082ee2ba6fc19ab86/fcda8/learndutchdotorg.png 590w,
+/static/9aef1db90253ed5082ee2ba6fc19ab86/efc66/learndutchdotorg.png 885w,
+/static/9aef1db90253ed5082ee2ba6fc19ab86/c83ae/learndutchdotorg.png 1180w,
+/static/9aef1db90253ed5082ee2ba6fc19ab86/d4e7f/learndutchdotorg.png 1416w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;LearnDutch.org Vocab&lt;/h4&gt;
+&lt;p&gt;Early in my Dutch learning experience, I completed the first 20 learndutch.org vocabulary lessons, doing roughly one a day. I also created flash cards for various vocabulary words. (In retrospect the vocabulary flash cards were a waste of effort.) I found these lessons tedious and do not think that they were the best way to learn vocabulary. However, I would still they were extremely helpful for learning how to spell and read. Spelling in Dutch more logical and consistent than spelling in English. Learning basic spelling rules allowed me to begin sounding out and reading words, which was more valuable than vocabulary lessons themselves.&lt;/p&gt;
+&lt;h4&gt;LearnDutch.org Grammar&lt;/h4&gt;
+&lt;p&gt;LearnDutch.org also has three courses of grammar lessons. The video lessons are well structured, well-paced, and generally of a high quality. They come with accompanying PDF slides, exercises, vocabulary lists, and tests. The largest issue I have with the grammar lessons is the relative lack of topic reinforcement throughout a course, which can make retaining knowledge difficult. I am currently working on the second of the grammar courses and strongly recommend it.&lt;/p&gt;
+&lt;h4&gt;How to use LearnDutch.org&lt;/h4&gt;
+&lt;p&gt;If I were to begin learning Dutch from scratch, I would complete the first 10 vocabulary lessons from learndutch.org and also purchase and work through the grammar lessons. To reinforce grammatical topics, I would create flash cards after finishing each lesson and review them before the next day’s lesson. A grammar workbook might also be helpful.&lt;/p&gt;
+&lt;h1&gt;Pimsleur Audiobooks&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.pimsleur.com/learn-dutch&quot;&gt;Pimsleur&lt;/a&gt; offers a series of Dutch language audiobooks and small accompanying vocabulary lists for $130. It is possible to purchase the CD’s second hand or borrow them from some libraries. Pimsleur claims that completing a course with them will make you conversational.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.pimsleur.com/learn-dutch&quot;&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 250px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQFA//EABYBAQEBAAAAAAAAAAAAAAAAAAIDBP/aAAwDAQACEAMQAAABj6z7muOkMloqhECv/8QAHBAAAgICAwAAAAAAAAAAAAAAAQIDBAAQEhMi/9oACAEBAAEFAmVgKvNLGei1eM6aFO86/8QAFxEBAQEBAAAAAAAAAAAAAAAAARARIf/aAAgBAwEBPwEc4Qn/xAAXEQEBAQEAAAAAAAAAAAAAAAABEAMh/9oACAECAQE/AdVXsZ//xAAbEAEAAgIDAAAAAAAAAAAAAAABECEAAhEyQf/aAAgBAQAGPwLq4U3TADg+EabcT//EABwQAAEEAwEAAAAAAAAAAAAAAAEAESExEEFRYf/aAAgBAQABPyGCSeLVYqO4JJCfU6I/Q7OKpku40YRkUnLWv//aAAwDAQACAAMAAAAQg8DC/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EBQGrAaz/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAgEBPxBBXDGsuf/EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExEKFBUZH/2gAIAQEAAT8QHKHRLRIp5G9adnXBO7oi+wjbzC2+7hwgoBijyI6DoqCDOf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Pimsleur Dutch album image&quot;
+        title=&quot;Pimsleur Dutch album image&quot;
+        src=&quot;/static/cf22d9f98e25370d315d51b65ea3609c/0479a/pimsleurdutch.jpg&quot;
+        srcset=&quot;/static/cf22d9f98e25370d315d51b65ea3609c/a80bd/pimsleurdutch.jpg 148w,
+/static/cf22d9f98e25370d315d51b65ea3609c/0479a/pimsleurdutch.jpg 250w&quot;
+        sizes=&quot;(max-width: 250px) 100vw, 250px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I found Pimsleur audiobooks to be slow and extremely easy. I was easilyable to listen to them while running, doing dishes, or working in the garden, and I rarely needed to pause the book or to think about my responses to the audio prompts. I felt that Pimsleur helped me become comfortable with very introductory Dutch conversation and pronunciation. By the end of the series, I was able to say things like “Hello,” “I’m well.” Would you like to have dinner?” “Should I bring beer?” etc., but I wasn’t really able to create new sentences or understand more general conversations.&lt;/p&gt;
+&lt;h4&gt;How to use Pimsleur Audiobooks to Learn Dutch&lt;/h4&gt;
+&lt;p&gt;If I were to begin learning Dutch from scratch, I would probably not use Pimsleur. There are better audiobook programs for learning Dutch.&lt;/p&gt;
+&lt;h1&gt;Michel Thomas Audiobooks&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.michelthomas.com/&quot;&gt;Michel Thomas&lt;/a&gt; also offers an alternative series of Dutch language audiobooks for $139. As with Pimsleur, it is possible to purchase the CD’s second hand or borrow them from a library. Michel Thomas claims that completing a course will make you speak Dutch at an intermediate level.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.michelthomas.com/learn-dutch/&quot;&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 22.972972972972975%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAABYlAAAWJQFJUiTwAAABMUlEQVQY012QzUsCURTFXwiZterLoE2UuwijnZs2FUEf0LYWBS1aRlNZY0ElESPpjOmQH+mEaWWiJUKDFETUrv/qdO8bZlGLw733Pd655/3E4FkWXZEUuo/SEEocgZgFr5rCpFFByKxi0WrCc5iE2LmE2Nch9nR4DpLoOTadOWz81XSmhplcHaNaURrN3TQwfJ7HSqmF2XwDq/c2ApqFoWgO4/ESxqgPGmVM6Hfo+G/G2nhqQ/v4wWbtTUq1v7FVf8fIRUE+nC88I/z6hbUHG+vVNpYosdL6xELxBWI34aR0RelFyHyU25Zvm9IgqJcxlazAF0ljgHDwVk7uIySd6pXE03+akZXPvVS5d++EdFaIz3bM4cRSXF4J5xuUhBkzbz99nQ17T67lzD3XPqr+aBa/nSfefZvGp8MAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Michel Thomas Dutch&quot;
+        title=&quot;Michel Thomas Dutch&quot;
+        src=&quot;/static/e3f2af5731d4cb133e6d76fbca82ebb4/fcda8/mt-dutch.png&quot;
+        srcset=&quot;/static/e3f2af5731d4cb133e6d76fbca82ebb4/12f09/mt-dutch.png 148w,
+/static/e3f2af5731d4cb133e6d76fbca82ebb4/e4a3f/mt-dutch.png 295w,
+/static/e3f2af5731d4cb133e6d76fbca82ebb4/fcda8/mt-dutch.png 590w,
+/static/e3f2af5731d4cb133e6d76fbca82ebb4/efc66/mt-dutch.png 885w,
+/static/e3f2af5731d4cb133e6d76fbca82ebb4/a13c9/mt-dutch.png 1178w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I found Michel Thomas audiobooks to be friendly and fast paced. Occasionally, I found tracks and albums to be challenging, requiring me to frequently hit the pause button and consider my response to audio prompts. At the start of the series, I was able to simultaneously run and listen to Michele Thomas tracks. By the last disk of the series, I was only able to listen to tracks while walking and often had to replay entire disks. I would not recommend driving while listening.&lt;/p&gt;
+&lt;p&gt;I felt that Michel Thomas covered all of the material that Pimsleur covered and much more. The material dives into vocabulary, grammar, and pronunciation, and contributed greatly towards my ability to hold conversations.&lt;/p&gt;
+&lt;h4&gt;How to use Michel Thomas Audiobooks to Learn Dutch&lt;/h4&gt;
+&lt;p&gt;If I were to begin learning Dutch from scratch, I would pair the Michel Thomas audiobooks with LearnDutch.org grammar lessons. While LearnDutch.org was excellent at teaching grammar, Michel Thomas helped reinforce those concepts while allowing me to put them into practice. I would, however, set aside time &lt;em&gt;just&lt;/em&gt; for listening to the Michel Thomas audio. It’s not something that I could multitask.&lt;/p&gt;
+&lt;h1&gt;Babbel App&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.babbel.com/&quot;&gt;The Babbel language app&lt;/a&gt; offers an app-based language learning experience for roughly $80/year. The app experience is slick and includes lessons on traditions, idioms, pronunciation, basic grammar, and vocabulary. Babbel claims to be a comprehensive learning experience.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.babbel.com/&quot;&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 216.2162162162162%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAArCAYAAAB4pah1AAAACXBIWXMAAAsTAAALEwEAmpwYAAAEEklEQVRIx+1WW28bRRRe8RP4CUXijZ/QPvcfIB4QUFQkxEWoCB6oilSJItQipFbQghokqkIojUKlRJGrNhfblLRYadIYx469tuPYTeLYsdder7273p35mMuuL3XS2FXFU0f6NGfOnP3mnDkzZ0cBa61WC6qqolwu8yEopRimtdttGIaBUqmETCYjvlP4hG3byOVyqGqaJMRwzbIs6LqOarUqvheEruuCAx4VtQy2tAnCWA/Dfgsr5fIeNvN5EE63mwAejIFEb6FquajalIF4/SD2LALDodIRb5sULvjwwyVyIzuglPSNO/Dj8rzlUPr8FTMEo7Qn86cMGlDEE0kk1TTS2Q3sFHexxsa7pTK2d4rI5QsobG0jt5kXWR7Yw/1WzW7kkFIziK+nBEE0Fkc6s4FkKg01kxXznNBxnMMJ/Qh45mPxBB6urGL5URT37v8jeo7uqcBwHvYebCKSwnp2TmjPnh10+JUDb4FtIZdNskNbglYro8agaSVUKkU09PrwHvorV8pbCI3/gMV7QcSTUUTXVvBvLIJAYArrqysHenkgoVbZQXhiDA/uRxBhCM7M4GGyjuDcPCNcHZ2wXHyMqYnLCC78hRuhBH4KLGN6IY47MwFEwiFpS8gwhNIor65i5toZXLv8Pa58/gWufHYGY+fP4tJ3X+Hv2TmZsOEIpYfF3DquXvgUv/58FT8eP4Zzrx3BLxcv4OKl83i0GB6FUBoVWCK+PXsKc7N3cfrjk3j9+FFMT05iNnQXS0uLfbZPPzaeh029go10jF2zLdy+E8D01ATUVAp7lRKaLWO0g31Y4zfFcdx9b8wgoWOyUqwLUJOB9cSsg7RqTNeAZdSQSmexnlSxtb1zeLVBu8V+MuxXYNZAmhook0mzKmFUQFhFl+VwxKvHzRtNE1q9gZpuoKLVBbSaPnpx6NYcr1qjW9V7q/tzS8rT2gvCF4TPQsgPKfEwqixA+seKyxQcfMJxScfIl90+mfTJHNSz6XjIDXTDRL3REoam3UbTtIVRo2kJmeur9WZHz23ttos2K2EVzRCL+JTsfUjEBDdwhExgO74sP+Ky3SMLvWdrtR2h6/NQftglGET/nO+dlB1RbDuEPASu9MMxWpYI9ckw9UYTpmmJB1KdlTObbQ1HVdPhsFcYJa6oSoq/6T7kZvfrRCJ46ffQK1Ov7/FQkvjp53tqWm059sj5PAJfAtffAH5/B/TGCWD8LeC3N0HH35Y6PrcZkYS99bKmt7AUyw38lOi5V0DfVUDfZzj1EujXr4KeflmOP2A4we7I0nWZ5W6oPaF78MeY+wb0j5Ogf34EOvkhcOsTUA4mC93N94DHy//DXfb/F4VCAfPz8wiHwwiFQggFFxAOBcVLIhFf8x5Lrnzk+2Ap+g+InPCmCkiRngAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Babbel app spelling exercise screenshot&quot;
+        title=&quot;Babbel app spelling exercise screenshot&quot;
+        src=&quot;/static/e6784a0b9eaef42231f17cafb4e91ee1/fcda8/babbel.png&quot;
+        srcset=&quot;/static/e6784a0b9eaef42231f17cafb4e91ee1/12f09/babbel.png 148w,
+/static/e6784a0b9eaef42231f17cafb4e91ee1/e4a3f/babbel.png 295w,
+/static/e6784a0b9eaef42231f17cafb4e91ee1/fcda8/babbel.png 590w,
+/static/e6784a0b9eaef42231f17cafb4e91ee1/8efc2/babbel.png 828w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;Babbel Vocab&lt;/h4&gt;
+&lt;p&gt;I found Babbel app to be clean, informative, and attractive. I made frequent use of its vocabulary section, which is extensive and well put together, and I have made significant use of it. Along with introducing new words, some people at Babbel have done an excellent job of choosing photos to illustrate the concept behind the words. Even for difficult words like “genezen” (to heal), “trouw” (faithful), or “ungehoorzaam” (disobedient), the Babbel team has found the perfect picture. Throughout the learning process, users are asked to match words to photos, type words, and to say them. The written/typed exercise UI is quite innovative and effective. After learning a word, the app uses spaced repetition to reinforce the knowledge.&lt;/p&gt;
+&lt;h4&gt;Babbel Grammar&lt;/h4&gt;
+&lt;p&gt;Unlike the vocabulary courses, I found Babbel’s grammatical exercises to be unclear and somewhat superficial. They did little to reinforce my Dutch grammar, and were hard to properly review once complete.&lt;/p&gt;
+&lt;h4&gt;How to use the Babbel App to learn Dutch&lt;/h4&gt;
+&lt;p&gt;If I were to begin learning Dutch from scratch, I would use Babbel to learn vocabulary and idioms, ignoring the comprehensive courses and grammatical sections.&lt;/p&gt;
+&lt;p&gt;Using Babbel will cost you money and a little time, but it will also bring you much close to learning a language, unlike &lt;a href=&quot;duolingo.com&quot;&gt;certain free alternative language learning apps&lt;/a&gt; which will cost you quite a bit of time in exchange for teaching not much at all.&lt;/p&gt;
+&lt;h1&gt;Media&lt;/h1&gt;
+&lt;p&gt;I often think of reading, watching tv, or listening to music as a leisure activity, and of grammar lessons as something more akin to work. As a result, throughout my learning experience, I struggled to make space for the neither-work-nor-play experience of consuming Dutch-language media.&lt;/p&gt;
+&lt;h2&gt;Books&lt;/h2&gt;
+&lt;p&gt;In my studies, I made use of introductory Dutch language books and of Dutch children’s books. I found that children’s books were more entertaining, but that they were also filled with incomplete sentences, idioms, and sounds like “pow” (pow) and “hatsjoe”  (a sneeze), making it difficult to understand what was being said. As a result, I found books intended to teach adults Dutch were much more helpful than children’s books. Another book, &lt;a href=&quot;https://libris.nl/actueel/uitgelicht/de-jongen-de-mol-de-vos-en-het-paard-van-charlie-mackesy/&quot;&gt;“De jongen, de mol, de vos en het paard”&lt;/a&gt;, was also a delight to read.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/948721acfb992a031f26113ce834db32/a2510/jongen-mol-vos-paard.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 120.27027027027026%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQFA//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAdOnOuO4M2wOwP/EAB4QAAIBAwUAAAAAAAAAAAAAAAECAAMEEBITITE0/9oACAEBAAEFAhWO9qwnsHcVWFyBzP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABkQAAMAAwAAAAAAAAAAAAAAAAIQEQEhMf/aAAgBAQAGPwLITjJkU0//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAQITFBsf/aAAgBAQABPyEpKunA/K9MJ600lmjCZ5r/2gAMAwEAAgADAAAAECAPAP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/EGM//8QAHxAAAgEDBQEAAAAAAAAAAAAAAREhABAxQWGRocHR/9oACAEBAAE/ECXTFBIpfaEuD3Fh4PNPQCiZsawxMiDhTUlgkjp1b//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;De jongen de mol de vos en het paard cover&quot;
+        title=&quot;De jongen de mol de vos en het paard cover&quot;
+        src=&quot;/static/948721acfb992a031f26113ce834db32/1c72d/jongen-mol-vos-paard.jpg&quot;
+        srcset=&quot;/static/948721acfb992a031f26113ce834db32/a80bd/jongen-mol-vos-paard.jpg 148w,
+/static/948721acfb992a031f26113ce834db32/1c91a/jongen-mol-vos-paard.jpg 295w,
+/static/948721acfb992a031f26113ce834db32/1c72d/jongen-mol-vos-paard.jpg 590w,
+/static/948721acfb992a031f26113ce834db32/a8a14/jongen-mol-vos-paard.jpg 885w,
+/static/948721acfb992a031f26113ce834db32/a2510/jongen-mol-vos-paard.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;How to use Books to Learn Dutch&lt;/h4&gt;
+&lt;p&gt;If I were to begin learning Dutch from scratch, I would buy an e-reader that can handle Dutch-&gt;Dutch and Dutch-&gt;English dictionaries. For what it’s worth, I have recently bought &lt;a href=&quot;https://gl.kobobooks.com/products/kobo-libra-h2o&quot;&gt;this one&lt;/a&gt;, which does the trick.&lt;/p&gt;
+&lt;h2&gt;Movies and TV&lt;/h2&gt;
+&lt;p&gt;I watched TV shows and Movies in Dutch via Netflix and Disney Plus. If choosing between the two, Disney+‘s family friendly content means that it generally has a better catalog of Dutch-audio programming and I would recommend going with that. The subtitles and the spoken words never match perfectly, but in most cases, they’re good enough.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/db5cdee6fa131511986b641521f68650/cb425/aladdin.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAADFUlEQVQozx2QXUyTBxSGv2svlyzZxbKLLVky4zIzY+Li5nSIwCoKGi8UFWRjEPmvJW1lQGlL2ykipTOjo6lDLuwg1GELLRT697X9WlpagRYlKEOHP1uy7Wb3zz64eJI3Jznve94jzPlDBBcihMNRImGRRCzOSjrF07VVRkdGue8cZWs9TyGb3iW7mESKS8RjEpFInGBIZD4Y22UhFENISIuIYhwxKpKSEqzKS/nckkwOtcpM85UmCo+yrOXkeXaRVEJiIbhjIspmMaKihBjbIUksnkSw9nSQlGLkV3Jsrq+STiYxme+QDC9QeayMfp0Bq20UzwMvjwsFYoklpMUcqUyO3PIqmaVl0rJOZx6RyS4jXDjwHsrzp1HVXMDWo8Jl03O1QcOt204aL9dz5uQVmuqacTv62ciGyEd/Ixd9yF2LlgFtCyviFE8kD4+TM+SlWYSm4x+jqviCkY5zBH9qQ1v5CaVHTlLy9VXOK85SVFzDpZITzBhO8WbexF8BA5Ef65jW19BVtl/W9Tx1Xyd2pwGPsQohP67luc/Af9IAEdcg2poKij87QvGXVaiv27hYraZWcZyhhhPkXWr+Fm+QGWsn8MM3mM4cYFx/ibi9mf7qIobqShD+DFp4PW+W0/tYcRvZmruBRduBpnOQnr5hij4v5+FgIxO3rvHErWXzvgr/d8V4jdXY67/CfGwvjlo5sL6MkZZTCNt+A6/m+ngVkOsETfwT0hP0TnBvSqS9y4riaBn58U7+DRvZDujZ+FnJ2OG9DLdVEh1u4ubhD9Ec3cfs7ToCMsLOdTuG2369TC8vpy2sPXDIVxlQl56m4qNDSLZrvPHr+H26m9eBm/iUZ/lFU05kpJZ+xX50FQdJOVt3qwsvZ428mNHxYrqLP3wmNjxOknYbS2NWfGYdA51WhrpNPJvsYtPbTVb+373WUjTlH2C6fJDKd/bQXrQP0d5IytGKsOWVkz06nk318NzTR87nZnIigMubwu6ap6XXQVtLL4VfdaxPfs+cpYrmT99Fc+4Qd5XlXHx7D4r332J24FvSTiX/A2w/ZWyV8DPiAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Aladdin live action screenshot&quot;
+        title=&quot;Aladdin live action screenshot&quot;
+        src=&quot;/static/db5cdee6fa131511986b641521f68650/fcda8/aladdin.png&quot;
+        srcset=&quot;/static/db5cdee6fa131511986b641521f68650/12f09/aladdin.png 148w,
+/static/db5cdee6fa131511986b641521f68650/e4a3f/aladdin.png 295w,
+/static/db5cdee6fa131511986b641521f68650/fcda8/aladdin.png 590w,
+/static/db5cdee6fa131511986b641521f68650/efc66/aladdin.png 885w,
+/static/db5cdee6fa131511986b641521f68650/c83ae/aladdin.png 1180w,
+/static/db5cdee6fa131511986b641521f68650/cb425/aladdin.png 1678w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;How I’m Continuing to Learn Dutch&lt;/h1&gt;
+&lt;p&gt;Currently, I’m working on finishing both Babbel App’s vocabulary course and the 2nd Grammar unit in LearnDutch.org. After this, I’ll likely listen through the last two or three disks of Michel Thomas again and start the Dutch translation of The Hunger Games on my e-reader.&lt;/p&gt;
+&lt;p&gt;Since I now live in a Dutch-speaking community in the Netherlands, I’ve also begun spending time practicing with my neighbors. Actual conversations are harder to quantify in terms of language-levels, but much more gratifying anyhow. As vaccines roll out, I might even be able to enroll in an in-person class!
+&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A Conquistador, the Climate Crisis, and the Finances of Atrocity]]></title><description><![CDATA[Content warning: violence, sexual assault Hernán Cortés’ greed knew no bounds. Even after he and his 600 soldiers landed in present-day…]]></description><link>https://albertrcarter.comconquistador-climate-crisis-finances-atrocity</link><guid isPermaLink="false">https://albertrcarter.comconquistador-climate-crisis-finances-atrocity</guid><pubDate>Mon, 12 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;head&gt;
     &lt;link rel=&quot;canonical&quot; href=&quot;https://bank.green/blog/cortes-climate-crisis&quot;/&gt;
 &lt;/head&gt;
 &lt;p&gt;&lt;em&gt;Content warning: violence, sexual assault&lt;/em&gt;&lt;/p&gt;
