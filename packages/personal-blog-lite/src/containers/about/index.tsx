@@ -34,7 +34,7 @@ const SocialLinks = [{
     },
     {
         icon: <IoLogoLinkedin />,
-        url: 'https://linkedin.com/in/brownualcarter',
+        url: 'https://linkedin.com/in/albertrcarter',
         tooltip: 'LinkedIn',
     },
     {
