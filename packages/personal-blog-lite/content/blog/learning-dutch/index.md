@@ -21,7 +21,7 @@ While learning Dutch, I've been through a fair number of tools, courses, and boo
 
 
 # LearnDutch.org
-[LearnDutch.org](learndutch.org) offers high quality group or solo Dutch lessons. I haven't had any desire to be on video chat more than I have to be, so have made use of the solo-learning materials, including the free vocabulary lessons and the paid grammar course (€120 for the bundle). There are other free supplemental materials on the site.
+[LearnDutch.org](https://learndutch.org) offers high quality group or solo Dutch lessons. I haven't had any desire to be on video chat more than I have to be, so have made use of the solo-learning materials, including the free vocabulary lessons and the paid grammar course (€120 for the bundle). There are other free supplemental materials on the site.
 
 [![learndutch.org screenshot](./learndutchdotorg.png)](https://learndutch.org)
 
@@ -74,7 +74,7 @@ Unlike the vocabulary courses, I found Babbel's grammatical exercises to be uncl
 #### How to use the Babbel App to learn Dutch
 If I were to begin learning Dutch from scratch, I would use Babbel to learn vocabulary and idioms, ignoring the comprehensive courses and grammatical sections.
 
-Using Babbel will cost you money and a little time, but it will also bring you much close to learning a language, unlike [certain free alternative language learning apps](duolingo.com) which will cost you quite a bit of time in exchange for teaching not much at all.
+Using Babbel will cost you money and a little time, but it will also bring you much close to learning a language, unlike [certain free alternative language learning apps](https://duolingo.com) which will cost you quite a bit of time in exchange for teaching not much at all.
 
 
 # Media
