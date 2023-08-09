@@ -1,5 +1,12 @@
 # To Clean and Install
 ```
+# You'll need to use npm 14, which on m1 mac requires switching architectures
+/usr/sbin/softwareupdate --install-rosetta --agree-to-license
+$env /usr/bin/arch -x86_64 /bin/zsh
+arch
+> i386
+
+
 # Sometimes items in the public folder can cause issues. Fully remove it.
 rm -r public
 rm -r packages/personal-blog-lite/public
