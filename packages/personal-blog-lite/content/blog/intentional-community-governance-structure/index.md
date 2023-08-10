@@ -9,9 +9,21 @@ slug: 'intentional-community-governance-structure'
 
 I was recently involved in designing a governance structure for the intentional ecological community in which I live. This is an overview of that structure followed by a translated and heavily edited version of the structure itself.
 
-_For context, the eco-village is about 90 mostly low-income people (60-ish adults) with separately doored apartments and houses living in the suburbs of a small Dutch city. We're integrated into our greater community through work, friendships, hobbies, and utility grids and intend to stay that way. Our roofs are covered in solar panels and also collect rain water for the washing machines and the garden. Our buildings' insulation lowers the heating bills and keeps our homes warm and toasty in the winter. There are many communal spaces including a big regenerative garden, fruit forest, large kitchen, community pantry, meeting + music rooms, a wood shop + bicycle shed, trampoline, hammock, guest room, outdoor pizza oven, chickens, and a sauna. We also share many smaller things through a chat group. One of our missions is to encourage people to organize other intentional communities._
+---
 
-The initial impetus for this new governance structure the collapse of our all-important, "middle circle," driven by the simultaneous resignation all but one of its member. Resigning members cited personal burnout, unclear vision, and structural issues within our system of governance.
+> _For context, the eco-village is about 90 multi-generational mostly low-income people (60-ish adults) with separately doored apartments and houses living in the suburbs of a small Dutch city. We're integrated into our greater community through work, friendships, hobbies, and utility grids and intend to stay that way. Our roofs are covered in solar panels and also collect rain water for the washing machines and the garden. Our buildings' insulation lowers the heating bills and keeps our homes warm and toasty in the winter. There are many communal spaces including a big regenerative garden, fruit forest, large kitchen, community pantry, meeting + music rooms, a wood shop + bicycle shed, trampoline, hammock, guest room, outdoor pizza oven, chickens, and a sauna. We also share vehicles and many smaller things through a chat group. One of our missions is to encourage people to organize other intentional communities._
+
+> _The land and buildings are owned and was developed by the local public-private housing corporation and the community, a nonprofit entity, and has a 30-year lease on it._
+
+> _The neighborhood we're in is mostly suburban cookie-cutter market-price new housing and I believe that one of the requirements of new construction was that it come with a certain amount of affordable housing. While people often think that affordable housing will bring down their property values, affordable *eco* housing seems to have an entirely different ring to it._
+
+> _At the moment, the neighbors, whom are also all recent transplants to this newly developed area, are generally pleased that we provide a beautiful garden and pseudo-public spaces and events that break the region's monotony. The developer and municipality, meanwhile, are happy to unload property management duties onto us as long as the actual public spaces stay open to the public. Though both the developer and municipality have provided some levels of financial support, from their perspectives, this remains a cost saving measure that generates positive externalities._
+
+> _After 30 years, the developer will own one of the more beautiful pieces of land in the area, bordering a municipally owned fruit forest. It's unclear whether the developer will renew the lease and if so, under what terms, but that's a problem for another time._
+
+---
+
+**The initial impetus for this new governance structure the collapse of our all-important, "middle circle," driven by the simultaneous resignation all but one of its member. Resigning members cited personal burnout, unclear vision, and structural issues within our system of governance.**
 
 I was part of the resulting working group to propose a new community vision and structure and was most involved with the structural side of the group. To this end, we identified problems by extensively surveying the community, both in written form and through a series of community gatherings. This led us to identify the problems in our (now former) structure as well as potential solutions:
 
